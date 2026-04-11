@@ -1,0 +1,82 @@
+{
+  "3564578cde5c42279ead680df1619e3c": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/3564578cde5c42279ead680df1619e3c.obj"
+  },
+  "8476c4170df24cf5bbe6967222d1a42d": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/8476c4170df24cf5bbe6967222d1a42d.obj"
+  },
+  "b16e7c6b479f45119f23b068cc529557": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/b16e7c6b479f45119f23b068cc529557.obj"
+  },
+  "b705e2ab882a4e4897ef0cdc5da4f313": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/b705e2ab882a4e4897ef0cdc5da4f313.obj"
+  },
+  "c2c95dc85d034ff29f3080ed19ccaa5a": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/c2c95dc85d034ff29f3080ed19ccaa5a.obj"
+  },
+  "b3beefe65f914f469cb5e49ddd415414": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/b3beefe65f914f469cb5e49ddd415414.obj"
+  },
+  "35ebec582c7c4552b06406426ec961aa": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/35ebec582c7c4552b06406426ec961aa.obj"
+  },
+  "754a9e7abcf84d8fb0cc61eb32df794f": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/754a9e7abcf84d8fb0cc61eb32df794f.obj"
+  },
+  "fef5ea167f0d42c2bc379f582ab0e670": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/fef5ea167f0d42c2bc379f582ab0e670.obj"
+  },
+  "0750394baf3048e2958ba60dda7043e3": {
+    "label": "hard",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/hard/0750394baf3048e2958ba60dda7043e3.obj"
+  },
+  "788b2ac8c80b4ca19dd716ba9b5d2f91": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/788b2ac8c80b4ca19dd716ba9b5d2f91.obj"
+  },
+  "931fc16054f04a58bac55cb1372b6b11": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/931fc16054f04a58bac55cb1372b6b11.obj"
+  },
+  "0ebd9b8149614d7ebf848a22897d4491": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/0ebd9b8149614d7ebf848a22897d4491.obj"
+  },
+  "d62a66449279499e998557408c4394cc": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/d62a66449279499e998557408c4394cc.obj"
+  },
+  "65e32539c7604a78928cc8b2ec5522ab": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/65e32539c7604a78928cc8b2ec5522ab.obj"
+  },
+  "66ca5bfb6aeb421a8cbccd6db0ae1458": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/66ca5bfb6aeb421a8cbccd6db0ae1458.obj"
+  },
+  "8817826a57a142d2ac82dc42fb46961a": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/8817826a57a142d2ac82dc42fb46961a.obj"
+  },
+  "e5d3a3f2bdf044c78a24c8fd4cf9b5ef": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.obj"
+  },
+  "091c4b56658a45d09a85616ed0b8006d": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/091c4b56658a45d09a85616ed0b8006d.obj"
+  },
+  "184da3472d4a4e03a8210b728d7f68e4": {
+    "label": "easy",
+    "mesh_path": "/home/msharpe/project_scripts/inference_outputs_depth/easy/184da3472d4a4e03a8210b728d7f68e4.obj"
+  }
+}

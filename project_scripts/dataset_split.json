@@ -1,0 +1,2070 @@
+{
+  "pool_size": 300,
+  "hard_set": [
+    {
+      "uid": "3564578cde5c42279ead680df1619e3c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/3564578cde5c42279ead680df1619e3c.glb",
+      "pinned": true,
+      "score": 1.2258922007402455,
+      "depth_ratio": 2.1028879668455165,
+      "occlusion_ratio": 0.34889643463497455,
+      "n_faces": 10602
+    },
+    {
+      "uid": "8476c4170df24cf5bbe6967222d1a42d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/8476c4170df24cf5bbe6967222d1a42d.glb",
+      "pinned": true,
+      "score": 0.7731325281857779,
+      "depth_ratio": 0.8917348199204156,
+      "occlusion_ratio": 0.6545302364511404,
+      "n_faces": 14337
+    },
+    {
+      "uid": "b16e7c6b479f45119f23b068cc529557",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-060/b16e7c6b479f45119f23b068cc529557.glb",
+      "pinned": false,
+      "score": 2.7346725432588395,
+      "depth_ratio": 4.774209339911344,
+      "occlusion_ratio": 0.6951357466063348,
+      "n_faces": 1768
+    },
+    {
+      "uid": "b705e2ab882a4e4897ef0cdc5da4f313",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-052/b705e2ab882a4e4897ef0cdc5da4f313.glb",
+      "pinned": false,
+      "score": 2.5361797212623616,
+      "depth_ratio": 4.685302558765448,
+      "occlusion_ratio": 0.3870568837592745,
+      "n_faces": 4852
+    },
+    {
+      "uid": "c2c95dc85d034ff29f3080ed19ccaa5a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-116/c2c95dc85d034ff29f3080ed19ccaa5a.glb",
+      "pinned": false,
+      "score": 2.509337025471259,
+      "depth_ratio": 4.810656325379576,
+      "occlusion_ratio": 0.20801772556294118,
+      "n_faces": 38814
+    },
+    {
+      "uid": "b3beefe65f914f469cb5e49ddd415414",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/b3beefe65f914f469cb5e49ddd415414.glb",
+      "pinned": false,
+      "score": 1.9396914928412876,
+      "depth_ratio": 3.400947313167955,
+      "occlusion_ratio": 0.47843567251461994,
+      "n_faces": 2736
+    },
+    {
+      "uid": "35ebec582c7c4552b06406426ec961aa",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-121/35ebec582c7c4552b06406426ec961aa.glb",
+      "pinned": false,
+      "score": 1.6849333374176252,
+      "depth_ratio": 2.855979071223548,
+      "occlusion_ratio": 0.5138876036117024,
+      "n_faces": 75643
+    },
+    {
+      "uid": "754a9e7abcf84d8fb0cc61eb32df794f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-159/754a9e7abcf84d8fb0cc61eb32df794f.glb",
+      "pinned": false,
+      "score": 1.5916587829087838,
+      "depth_ratio": 2.9290001316070415,
+      "occlusion_ratio": 0.2543174342105263,
+      "n_faces": 24320
+    },
+    {
+      "uid": "fef5ea167f0d42c2bc379f582ab0e670",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-040/fef5ea167f0d42c2bc379f582ab0e670.glb",
+      "pinned": false,
+      "score": 1.5486232269246756,
+      "depth_ratio": 2.6052292601127838,
+      "occlusion_ratio": 0.4920171937365674,
+      "n_faces": 6514
+    },
+    {
+      "uid": "0750394baf3048e2958ba60dda7043e3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-071/0750394baf3048e2958ba60dda7043e3.glb",
+      "pinned": false,
+      "score": 1.4467379103340523,
+      "depth_ratio": 2.694355820668105,
+      "occlusion_ratio": 0.19911999999999996,
+      "n_faces": 25000
+    }
+  ],
+  "easy_set": [
+    {
+      "uid": "788b2ac8c80b4ca19dd716ba9b5d2f91",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-034/788b2ac8c80b4ca19dd716ba9b5d2f91.glb",
+      "pinned": false,
+      "score": 0.275242701605174,
+      "depth_ratio": 0.1168570846262772,
+      "occlusion_ratio": 0.4336283185840708,
+      "n_faces": 452
+    },
+    {
+      "uid": "931fc16054f04a58bac55cb1372b6b11",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/931fc16054f04a58bac55cb1372b6b11.glb",
+      "pinned": false,
+      "score": 0.26978457137091233,
+      "depth_ratio": 0.20665887494134239,
+      "occlusion_ratio": 0.3329102678004823,
+      "n_faces": 7879
+    },
+    {
+      "uid": "0ebd9b8149614d7ebf848a22897d4491",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/0ebd9b8149614d7ebf848a22897d4491.glb",
+      "pinned": false,
+      "score": 0.2617012627040351,
+      "depth_ratio": 0.24047711748266232,
+      "occlusion_ratio": 0.2829254079254079,
+      "n_faces": 10296
+    },
+    {
+      "uid": "d62a66449279499e998557408c4394cc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/d62a66449279499e998557408c4394cc.glb",
+      "pinned": false,
+      "score": 0.253677280921952,
+      "depth_ratio": 0.030914771267987827,
+      "occlusion_ratio": 0.47643979057591623,
+      "n_faces": 764
+    },
+    {
+      "uid": "65e32539c7604a78928cc8b2ec5522ab",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-027/65e32539c7604a78928cc8b2ec5522ab.glb",
+      "pinned": false,
+      "score": 0.253677280921952,
+      "depth_ratio": 0.030914771267987827,
+      "occlusion_ratio": 0.47643979057591623,
+      "n_faces": 764
+    },
+    {
+      "uid": "66ca5bfb6aeb421a8cbccd6db0ae1458",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/66ca5bfb6aeb421a8cbccd6db0ae1458.glb",
+      "pinned": false,
+      "score": 0.24455639351182376,
+      "depth_ratio": 0.2292241086721553,
+      "occlusion_ratio": 0.2598886783514922,
+      "n_faces": 16888
+    },
+    {
+      "uid": "8817826a57a142d2ac82dc42fb46961a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-129/8817826a57a142d2ac82dc42fb46961a.glb",
+      "pinned": false,
+      "score": 0.24155123926973743,
+      "depth_ratio": 0.06473513160069931,
+      "occlusion_ratio": 0.41836734693877553,
+      "n_faces": 1078
+    },
+    {
+      "uid": "e5d3a3f2bdf044c78a24c8fd4cf9b5ef",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-140/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.glb",
+      "pinned": false,
+      "score": 0.24051534548022366,
+      "depth_ratio": 0.21377475131401108,
+      "occlusion_ratio": 0.26725593964643624,
+      "n_faces": 17762
+    },
+    {
+      "uid": "091c4b56658a45d09a85616ed0b8006d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-046/091c4b56658a45d09a85616ed0b8006d.glb",
+      "pinned": false,
+      "score": 0.23961692831016576,
+      "depth_ratio": 0.03280528519176012,
+      "occlusion_ratio": 0.4464285714285714,
+      "n_faces": 112
+    },
+    {
+      "uid": "184da3472d4a4e03a8210b728d7f68e4",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-050/184da3472d4a4e03a8210b728d7f68e4.glb",
+      "pinned": false,
+      "score": 0.23354870079057038,
+      "depth_ratio": 0.04560979827535561,
+      "occlusion_ratio": 0.42148760330578516,
+      "n_faces": 8712
+    }
+  ],
+  "all_scored": [
+    {
+      "uid": "3564578cde5c42279ead680df1619e3c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/3564578cde5c42279ead680df1619e3c.glb",
+      "pinned": true,
+      "score": 1.2258922007402455,
+      "depth_ratio": 2.1028879668455165,
+      "occlusion_ratio": 0.34889643463497455,
+      "n_faces": 10602
+    },
+    {
+      "uid": "8476c4170df24cf5bbe6967222d1a42d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/8476c4170df24cf5bbe6967222d1a42d.glb",
+      "pinned": true,
+      "score": 0.7731325281857779,
+      "depth_ratio": 0.8917348199204156,
+      "occlusion_ratio": 0.6545302364511404,
+      "n_faces": 14337
+    },
+    {
+      "uid": "d8b9fc508b9e4638b94c6b60a3ccbebd",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-107/d8b9fc508b9e4638b94c6b60a3ccbebd.glb",
+      "pinned": false,
+      "score": 0.7569550053734007,
+      "depth_ratio": 0.9411764705882353,
+      "occlusion_ratio": 0.572733540158566,
+      "n_faces": 5802
+    },
+    {
+      "uid": "17e4e4c58c974f9c8fe2841b971fc679",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-022/17e4e4c58c974f9c8fe2841b971fc679.glb",
+      "pinned": false,
+      "score": 0.7116805767999608,
+      "depth_ratio": 0.7629629952444325,
+      "occlusion_ratio": 0.6603981583554892,
+      "n_faces": 15421
+    },
+    {
+      "uid": "56a91ee1e71a4d1ea8a5c8d0c11f03d3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-074/56a91ee1e71a4d1ea8a5c8d0c11f03d3.glb",
+      "pinned": false,
+      "score": 0.7625000894069565,
+      "depth_ratio": 1.000000178813913,
+      "occlusion_ratio": 0.525,
+      "n_faces": 80
+    },
+    {
+      "uid": "f045478065de48a9af9792fe016bfcb8",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-103/f045478065de48a9af9792fe016bfcb8.glb",
+      "pinned": false,
+      "score": 0.4295975702780272,
+      "depth_ratio": 0.579005458600368,
+      "occlusion_ratio": 0.2801896819556864,
+      "n_faces": 48924
+    },
+    {
+      "uid": "597aa3700b48412d97ba2c9bcd5c769e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-137/597aa3700b48412d97ba2c9bcd5c769e.glb",
+      "pinned": false,
+      "score": 0.2863095590764099,
+      "depth_ratio": 0.027302855001596703,
+      "occlusion_ratio": 0.5453162631512232,
+      "n_faces": 7889
+    },
+    {
+      "uid": "c43dec8e2b27409f843362dee9ea8c17",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-129/c43dec8e2b27409f843362dee9ea8c17.glb",
+      "pinned": false,
+      "score": 0.6647869613288317,
+      "depth_ratio": 1.0081708395860107,
+      "occlusion_ratio": 0.3214030830716529,
+      "n_faces": 28024
+    },
+    {
+      "uid": "aa1408c476d441779db9855a03f976db",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-057/aa1408c476d441779db9855a03f976db.glb",
+      "pinned": false,
+      "score": 0.8658624256428137,
+      "depth_ratio": 1.0970366412376598,
+      "occlusion_ratio": 0.6346882100479676,
+      "n_faces": 7922
+    },
+    {
+      "uid": "c63f71102e814f91b6f5d193b0fe9d55",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-158/c63f71102e814f91b6f5d193b0fe9d55.glb",
+      "pinned": false,
+      "score": 0.5890043449887915,
+      "depth_ratio": 0.6302803187837696,
+      "occlusion_ratio": 0.5477283711938135,
+      "n_faces": 41380
+    },
+    {
+      "uid": "29002829bd854022b57a261847f46822",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-062/29002829bd854022b57a261847f46822.glb",
+      "pinned": false,
+      "score": 0.4372061347679117,
+      "depth_ratio": 0.5563643873995435,
+      "occlusion_ratio": 0.3180478821362799,
+      "n_faces": 10860
+    },
+    {
+      "uid": "29856c4a8901498db4f1d66aba4df133",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-149/29856c4a8901498db4f1d66aba4df133.glb",
+      "pinned": false,
+      "score": 0.5876519452407398,
+      "depth_ratio": 0.7468155860476383,
+      "occlusion_ratio": 0.42848830443384145,
+      "n_faces": 8593
+    },
+    {
+      "uid": "9168390344054b978b59315177fb1667",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-091/9168390344054b978b59315177fb1667.glb",
+      "pinned": false,
+      "score": 0.5887543036161198,
+      "depth_ratio": 0.9405855303091628,
+      "occlusion_ratio": 0.2369230769230769,
+      "n_faces": 5850
+    },
+    {
+      "uid": "882650d6833c48fd842a161d176c1bce",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-112/882650d6833c48fd842a161d176c1bce.glb",
+      "pinned": false,
+      "score": 0.5055309898916255,
+      "depth_ratio": 0.4883873539813978,
+      "occlusion_ratio": 0.5226746258018532,
+      "n_faces": 22448
+    },
+    {
+      "uid": "44e8c7d2629c4852b419a5a1ae9ae0f1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-070/44e8c7d2629c4852b419a5a1ae9ae0f1.glb",
+      "pinned": false,
+      "score": 0.4240441799140903,
+      "depth_ratio": 0.41864942165992713,
+      "occlusion_ratio": 0.4294389381682535,
+      "n_faces": 46109
+    },
+    {
+      "uid": "19672fc205994b408b8678daf6138d31",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-006/19672fc205994b408b8678daf6138d31.glb",
+      "pinned": false,
+      "score": 0.758518776077886,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.517037552155772,
+      "n_faces": 2876
+    },
+    {
+      "uid": "941c44173001491eacca14df247bae89",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-006/941c44173001491eacca14df247bae89.glb",
+      "pinned": false,
+      "score": 0.8731160347296862,
+      "depth_ratio": 1.4228293415340316,
+      "occlusion_ratio": 0.32340272792534097,
+      "n_faces": 2786
+    },
+    {
+      "uid": "788b2ac8c80b4ca19dd716ba9b5d2f91",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-034/788b2ac8c80b4ca19dd716ba9b5d2f91.glb",
+      "pinned": false,
+      "score": 0.275242701605174,
+      "depth_ratio": 0.1168570846262772,
+      "occlusion_ratio": 0.4336283185840708,
+      "n_faces": 452
+    },
+    {
+      "uid": "130e9c723cf7430d9cd816c1d8ab996d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/130e9c723cf7430d9cd816c1d8ab996d.glb",
+      "pinned": false,
+      "score": 0.7444946176845104,
+      "depth_ratio": 0.7808571428571428,
+      "occlusion_ratio": 0.7081320925118781,
+      "n_faces": 25467
+    },
+    {
+      "uid": "da661e0a74c44db1a72131725af647c1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-079/da661e0a74c44db1a72131725af647c1.glb",
+      "pinned": false,
+      "score": 0.45682814963680085,
+      "depth_ratio": 0.3295191074193681,
+      "occlusion_ratio": 0.5841371918542336,
+      "n_faces": 933
+    },
+    {
+      "uid": "fef5ea167f0d42c2bc379f582ab0e670",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-040/fef5ea167f0d42c2bc379f582ab0e670.glb",
+      "pinned": false,
+      "score": 1.5486232269246756,
+      "depth_ratio": 2.6052292601127838,
+      "occlusion_ratio": 0.4920171937365674,
+      "n_faces": 6514
+    },
+    {
+      "uid": "8ee1959c61b14c39bed5d982994dfd5b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-105/8ee1959c61b14c39bed5d982994dfd5b.glb",
+      "pinned": false,
+      "score": 0.6244522102509186,
+      "depth_ratio": 0.9857908908390117,
+      "occlusion_ratio": 0.2631135296628254,
+      "n_faces": 93720
+    },
+    {
+      "uid": "5a51dfb5ff8b410bb21091d567b4d605",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-013/5a51dfb5ff8b410bb21091d567b4d605.glb",
+      "pinned": false,
+      "score": 0.7201318602520749,
+      "depth_ratio": 0.8182897912676507,
+      "occlusion_ratio": 0.6219739292364991,
+      "n_faces": 4833
+    },
+    {
+      "uid": "e5d3a3f2bdf044c78a24c8fd4cf9b5ef",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-140/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.glb",
+      "pinned": false,
+      "score": 0.24051534548022366,
+      "depth_ratio": 0.21377475131401108,
+      "occlusion_ratio": 0.26725593964643624,
+      "n_faces": 17762
+    },
+    {
+      "uid": "ea3f432c3ef746a7a305310670b737c4",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/ea3f432c3ef746a7a305310670b737c4.glb",
+      "pinned": false,
+      "score": 0.8072510091012671,
+      "depth_ratio": 0.7724138210559713,
+      "occlusion_ratio": 0.8420881971465629,
+      "n_faces": 6168
+    },
+    {
+      "uid": "52b93c051d4e471594bb674736799a6a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-138/52b93c051d4e471594bb674736799a6a.glb",
+      "pinned": false,
+      "score": 0.604698209857772,
+      "depth_ratio": 0.7682663692104934,
+      "occlusion_ratio": 0.4411300505050505,
+      "n_faces": 6336
+    },
+    {
+      "uid": "cc3071ad263340e49e6784ffc875531b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-015/cc3071ad263340e49e6784ffc875531b.glb",
+      "pinned": false,
+      "score": 0.6001859832120695,
+      "depth_ratio": 1.0024552997574723,
+      "occlusion_ratio": 0.19791666666666663,
+      "n_faces": 1152
+    },
+    {
+      "uid": "0b865d34c06149338e15b6972a13fa3d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-004/0b865d34c06149338e15b6972a13fa3d.glb",
+      "pinned": false,
+      "score": 0.28678908072401765,
+      "depth_ratio": 0.29731595782181497,
+      "occlusion_ratio": 0.27626220362622034,
+      "n_faces": 35850
+    },
+    {
+      "uid": "66dfa15418fa4478828a31fb58025cea",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-159/66dfa15418fa4478828a31fb58025cea.glb",
+      "pinned": false,
+      "score": 0.5196444260961434,
+      "depth_ratio": 0.7238927385898951,
+      "occlusion_ratio": 0.3153961136023916,
+      "n_faces": 2676
+    },
+    {
+      "uid": "ced05ea3e59b436997f1d576b9c145a2",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-010/ced05ea3e59b436997f1d576b9c145a2.glb",
+      "pinned": false,
+      "score": 0.9296036300796057,
+      "depth_ratio": 1.1130434948465098,
+      "occlusion_ratio": 0.7461637653127016,
+      "n_faces": 31020
+    },
+    {
+      "uid": "dd0a255416fa47ddb9e5c179d86ef437",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-035/dd0a255416fa47ddb9e5c179d86ef437.glb",
+      "pinned": false,
+      "score": 0.637640315190659,
+      "depth_ratio": 0.5502687501342088,
+      "occlusion_ratio": 0.7250118802471092,
+      "n_faces": 6313
+    },
+    {
+      "uid": "0ebd9b8149614d7ebf848a22897d4491",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/0ebd9b8149614d7ebf848a22897d4491.glb",
+      "pinned": false,
+      "score": 0.2617012627040351,
+      "depth_ratio": 0.24047711748266232,
+      "occlusion_ratio": 0.2829254079254079,
+      "n_faces": 10296
+    },
+    {
+      "uid": "2bb269a225ed439b8d2d5d4d8e5ae8ef",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-048/2bb269a225ed439b8d2d5d4d8e5ae8ef.glb",
+      "pinned": false,
+      "score": 0.6471931029475306,
+      "depth_ratio": 0.5814977973568282,
+      "occlusion_ratio": 0.712888408538233,
+      "n_faces": 37010
+    },
+    {
+      "uid": "32b42eece364477780b20b755cfd34d8",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-142/32b42eece364477780b20b755cfd34d8.glb",
+      "pinned": false,
+      "score": 0.5572118494708147,
+      "depth_ratio": 0.32590466366158166,
+      "occlusion_ratio": 0.7885190352800479,
+      "n_faces": 10034
+    },
+    {
+      "uid": "93c15997949a48b4bf07c816746fce3f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-025/93c15997949a48b4bf07c816746fce3f.glb",
+      "pinned": false,
+      "score": 0.35920956722162756,
+      "depth_ratio": 0.4034984995226202,
+      "occlusion_ratio": 0.31492063492063493,
+      "n_faces": 15750
+    },
+    {
+      "uid": "b1fb4ee96de34635888d916d1602b641",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-036/b1fb4ee96de34635888d916d1602b641.glb",
+      "pinned": false,
+      "score": 0.312595495745406,
+      "depth_ratio": 0.12229803102793833,
+      "occlusion_ratio": 0.5028929604628737,
+      "n_faces": 2074
+    },
+    {
+      "uid": "90cfacedcb554022989cfe5dee37672f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-158/90cfacedcb554022989cfe5dee37672f.glb",
+      "pinned": false,
+      "score": 0.35439490445859884,
+      "depth_ratio": 0.04000000000000019,
+      "occlusion_ratio": 0.6687898089171975,
+      "n_faces": 628
+    },
+    {
+      "uid": "bb920dd7ef50497a8b6330ea82e02e18",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-070/bb920dd7ef50497a8b6330ea82e02e18.glb",
+      "pinned": false,
+      "score": 0.88346707018585,
+      "depth_ratio": 1.5201957977768703,
+      "occlusion_ratio": 0.24673834259482963,
+      "n_faces": 16556
+    },
+    {
+      "uid": "eafac4f922b34a18a10769d1d687897d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-120/eafac4f922b34a18a10769d1d687897d.glb",
+      "pinned": false,
+      "score": 0.640947789185844,
+      "depth_ratio": 0.9397564031139561,
+      "occlusion_ratio": 0.34213917525773196,
+      "n_faces": 1552
+    },
+    {
+      "uid": "0a73288eb9a242948de98e93b85419b6",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-049/0a73288eb9a242948de98e93b85419b6.glb",
+      "pinned": false,
+      "score": 0.4330955469087765,
+      "depth_ratio": 0.14396887159533073,
+      "occlusion_ratio": 0.7222222222222222,
+      "n_faces": 72
+    },
+    {
+      "uid": "3acb8d5ff785414ea5dc17254196d8f5",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-064/3acb8d5ff785414ea5dc17254196d8f5.glb",
+      "pinned": false,
+      "score": 0.5744665006785611,
+      "depth_ratio": 0.797840300314414,
+      "occlusion_ratio": 0.3510927010427082,
+      "n_faces": 7001
+    },
+    {
+      "uid": "5ff6b6b100c747e291b3611345ce6f3b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-132/5ff6b6b100c747e291b3611345ce6f3b.glb",
+      "pinned": false,
+      "score": 0.8926754201990921,
+      "depth_ratio": 1.0283621456397052,
+      "occlusion_ratio": 0.756988694758479,
+      "n_faces": 38920
+    },
+    {
+      "uid": "7b1420fd4c1946968bf8a9fd4623f19a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-109/7b1420fd4c1946968bf8a9fd4623f19a.glb",
+      "pinned": false,
+      "score": 0.6122534706482219,
+      "depth_ratio": 0.846312402378943,
+      "occlusion_ratio": 0.37819453891750077,
+      "n_faces": 20582
+    },
+    {
+      "uid": "99e43ce64093406f864b74dd7e441c96",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-153/99e43ce64093406f864b74dd7e441c96.glb",
+      "pinned": false,
+      "score": 0.868826477893857,
+      "depth_ratio": 1.2271187195198434,
+      "occlusion_ratio": 0.5105342362678706,
+      "n_faces": 2658
+    },
+    {
+      "uid": "d40c314ed5654fcdbe886cc52e385f6f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-150/d40c314ed5654fcdbe886cc52e385f6f.glb",
+      "pinned": false,
+      "score": 1.0257572036902602,
+      "depth_ratio": 1.6374519073805205,
+      "occlusion_ratio": 0.4140625,
+      "n_faces": 256
+    },
+    {
+      "uid": "367f4de4ea364e1682a6ba5689104156",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-123/367f4de4ea364e1682a6ba5689104156.glb",
+      "pinned": false,
+      "score": 0.3497800112074361,
+      "depth_ratio": 0.03289335574820553,
+      "occlusion_ratio": 0.6666666666666667,
+      "n_faces": 108
+    },
+    {
+      "uid": "2bec242684c54e1f8574b579dc10a0e7",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-029/2bec242684c54e1f8574b579dc10a0e7.glb",
+      "pinned": false,
+      "score": 0.7925419621822722,
+      "depth_ratio": 0.8229676077248029,
+      "occlusion_ratio": 0.7621163166397416,
+      "n_faces": 2476
+    },
+    {
+      "uid": "34591da465a947ad9facf72d35055397",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-009/34591da465a947ad9facf72d35055397.glb",
+      "pinned": false,
+      "score": 0.6268072709370427,
+      "depth_ratio": 1.102369438207751,
+      "occlusion_ratio": 0.15124510366633437,
+      "n_faces": 99309
+    },
+    {
+      "uid": "c776cf6f3fe24eca8a008f024f870441",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-003/c776cf6f3fe24eca8a008f024f870441.glb",
+      "pinned": false,
+      "score": 0.3331784684768546,
+      "depth_ratio": 0.08125055397498578,
+      "occlusion_ratio": 0.5851063829787234,
+      "n_faces": 94
+    },
+    {
+      "uid": "f1343278c9374513bbf44c763bbb358f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-073/f1343278c9374513bbf44c763bbb358f.glb",
+      "pinned": false,
+      "score": 0.5316498559077809,
+      "depth_ratio": 0.47,
+      "occlusion_ratio": 0.593299711815562,
+      "n_faces": 5552
+    },
+    {
+      "uid": "24271042025540c09eb2f43b0d76151e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-050/24271042025540c09eb2f43b0d76151e.glb",
+      "pinned": false,
+      "score": 0.8439609900627651,
+      "depth_ratio": 0.9777770525892985,
+      "occlusion_ratio": 0.7101449275362319,
+      "n_faces": 345
+    },
+    {
+      "uid": "c7f163cb9b2f454fa5671f81c9602173",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-107/c7f163cb9b2f454fa5671f81c9602173.glb",
+      "pinned": false,
+      "score": 0.34132664465836066,
+      "depth_ratio": 0.2997220384451553,
+      "occlusion_ratio": 0.382931250871566,
+      "n_faces": 7171
+    },
+    {
+      "uid": "62607ff0d2c64d2faa759ae6892b5ad1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-090/62607ff0d2c64d2faa759ae6892b5ad1.glb",
+      "pinned": false,
+      "score": 0.44127881175738415,
+      "depth_ratio": 0.590866976032754,
+      "occlusion_ratio": 0.29169064748201434,
+      "n_faces": 27800
+    },
+    {
+      "uid": "08f74dd628244bb1a22d7afa2fa4408a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-033/08f74dd628244bb1a22d7afa2fa4408a.glb",
+      "pinned": false,
+      "score": 0.9302009050646189,
+      "depth_ratio": 1.2114788606677631,
+      "occlusion_ratio": 0.6489229494614748,
+      "n_faces": 4828
+    },
+    {
+      "uid": "3cb4cbb405d54d1e9304bf06c45fd146",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-098/3cb4cbb405d54d1e9304bf06c45fd146.glb",
+      "pinned": false,
+      "score": 0.6965213865976139,
+      "depth_ratio": 0.8634221604948827,
+      "occlusion_ratio": 0.5296206127003449,
+      "n_faces": 9858
+    },
+    {
+      "uid": "66f654894e8b41d7b5d65977688c4c12",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-059/66f654894e8b41d7b5d65977688c4c12.glb",
+      "pinned": false,
+      "score": 0.3955570532075617,
+      "depth_ratio": 0.09513795142257482,
+      "occlusion_ratio": 0.6959761549925485,
+      "n_faces": 4026
+    },
+    {
+      "uid": "9a71d744d9b949bc962f6f0903c9a268",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/9a71d744d9b949bc962f6f0903c9a268.glb",
+      "pinned": false,
+      "score": 0.5571384543858873,
+      "depth_ratio": 0.7667232542617941,
+      "occlusion_ratio": 0.34755365450998044,
+      "n_faces": 26652
+    },
+    {
+      "uid": "8c73bdf9f6304a3899b406483b5a6834",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-016/8c73bdf9f6304a3899b406483b5a6834.glb",
+      "pinned": false,
+      "score": 0.3596612182641481,
+      "depth_ratio": 0.3941044132724822,
+      "occlusion_ratio": 0.32521802325581395,
+      "n_faces": 5504
+    },
+    {
+      "uid": "f828b80b61c745b290f9b79c8b3b2993",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-087/f828b80b61c745b290f9b79c8b3b2993.glb",
+      "pinned": false,
+      "score": 0.8672785095732107,
+      "depth_ratio": 1.0010929107666016,
+      "occlusion_ratio": 0.7334641083798198,
+      "n_faces": 32626
+    },
+    {
+      "uid": "931fc16054f04a58bac55cb1372b6b11",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/931fc16054f04a58bac55cb1372b6b11.glb",
+      "pinned": false,
+      "score": 0.26978457137091233,
+      "depth_ratio": 0.20665887494134239,
+      "occlusion_ratio": 0.3329102678004823,
+      "n_faces": 7879
+    },
+    {
+      "uid": "3072e8dd83624983a29a3a65a98c460b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-061/3072e8dd83624983a29a3a65a98c460b.glb",
+      "pinned": false,
+      "score": 0.6276230404183937,
+      "depth_ratio": 0.9914390780693707,
+      "occlusion_ratio": 0.26380700276741664,
+      "n_faces": 83110
+    },
+    {
+      "uid": "d62a66449279499e998557408c4394cc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/d62a66449279499e998557408c4394cc.glb",
+      "pinned": false,
+      "score": 0.253677280921952,
+      "depth_ratio": 0.030914771267987827,
+      "occlusion_ratio": 0.47643979057591623,
+      "n_faces": 764
+    },
+    {
+      "uid": "56222d1aff194ccb840fb2b7ac9fc385",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-104/56222d1aff194ccb840fb2b7ac9fc385.glb",
+      "pinned": false,
+      "score": 0.6970305776379585,
+      "depth_ratio": 0.9012935914362828,
+      "occlusion_ratio": 0.49276756383963416,
+      "n_faces": 55099
+    },
+    {
+      "uid": "58e6a56e53e74418992e48250afd6869",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-046/58e6a56e53e74418992e48250afd6869.glb",
+      "pinned": false,
+      "score": 0.7536459227402899,
+      "depth_ratio": 1.000000178813913,
+      "occlusion_ratio": 0.5072916666666667,
+      "n_faces": 960
+    },
+    {
+      "uid": "35ebec582c7c4552b06406426ec961aa",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-121/35ebec582c7c4552b06406426ec961aa.glb",
+      "pinned": false,
+      "score": 1.6849333374176252,
+      "depth_ratio": 2.855979071223548,
+      "occlusion_ratio": 0.5138876036117024,
+      "n_faces": 75643
+    },
+    {
+      "uid": "9616e527cca7401db56a0c5e1bd3b01f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-107/9616e527cca7401db56a0c5e1bd3b01f.glb",
+      "pinned": false,
+      "score": 0.8576761818904559,
+      "depth_ratio": 1.2692804596530822,
+      "occlusion_ratio": 0.4460719041278296,
+      "n_faces": 3004
+    },
+    {
+      "uid": "a3f987e53b9c45c59bbdbe89c961b3a1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-002/a3f987e53b9c45c59bbdbe89c961b3a1.glb",
+      "pinned": false,
+      "score": 0.5027763841206876,
+      "depth_ratio": 0.5811371178348711,
+      "occlusion_ratio": 0.4244156504065041,
+      "n_faces": 7872
+    },
+    {
+      "uid": "9188bbd153f84f2f81185dcdef480ab6",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-038/9188bbd153f84f2f81185dcdef480ab6.glb",
+      "pinned": false,
+      "score": 0.48751438011890647,
+      "depth_ratio": 0.503814887405443,
+      "occlusion_ratio": 0.47121387283236993,
+      "n_faces": 4325
+    },
+    {
+      "uid": "83bea3d1ed8b4cb9bb96c664ceb778e7",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-150/83bea3d1ed8b4cb9bb96c664ceb778e7.glb",
+      "pinned": false,
+      "score": 0.7037505552901614,
+      "depth_ratio": 0.6659979820251465,
+      "occlusion_ratio": 0.7415031285551763,
+      "n_faces": 28128
+    },
+    {
+      "uid": "345498d4f24a4fa29a235a5c6edf9c30",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-030/345498d4f24a4fa29a235a5c6edf9c30.glb",
+      "pinned": false,
+      "score": 0.8495751474806515,
+      "depth_ratio": 1.1555555555555554,
+      "occlusion_ratio": 0.5435947394057477,
+      "n_faces": 4106
+    },
+    {
+      "uid": "c9845efac1ae4e2d9b75e753480b12f2",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-012/c9845efac1ae4e2d9b75e753480b12f2.glb",
+      "pinned": false,
+      "score": 0.33631644494473545,
+      "depth_ratio": 0.16972328171670484,
+      "occlusion_ratio": 0.5029096081727661,
+      "n_faces": 30932
+    },
+    {
+      "uid": "156362c97f974caca466ef71cfdadb49",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-069/156362c97f974caca466ef71cfdadb49.glb",
+      "pinned": false,
+      "score": 0.4379851049788916,
+      "depth_ratio": 0.3791508073042562,
+      "occlusion_ratio": 0.496819402653527,
+      "n_faces": 99038
+    },
+    {
+      "uid": "997fd50309de4072adcf7b06ea6223f0",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-087/997fd50309de4072adcf7b06ea6223f0.glb",
+      "pinned": false,
+      "score": 0.2983562384345223,
+      "depth_ratio": 0.29859916732206665,
+      "occlusion_ratio": 0.298113309546978,
+      "n_faces": 36996
+    },
+    {
+      "uid": "6f837f29e2eb4add95ec79de2133ef9e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-031/6f837f29e2eb4add95ec79de2133ef9e.glb",
+      "pinned": false,
+      "score": 0.5883227176220807,
+      "depth_ratio": 0.5333333333333333,
+      "occlusion_ratio": 0.6433121019108281,
+      "n_faces": 314
+    },
+    {
+      "uid": "afbae9a186a045f393e8b0041bd6ac91",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-104/afbae9a186a045f393e8b0041bd6ac91.glb",
+      "pinned": false,
+      "score": 0.5613575655656515,
+      "depth_ratio": 0.7856531143522274,
+      "occlusion_ratio": 0.33706201677907555,
+      "n_faces": 18237
+    },
+    {
+      "uid": "f7f116f887b446cd9b22bb1e7840c726",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-032/f7f116f887b446cd9b22bb1e7840c726.glb",
+      "pinned": false,
+      "score": 1.2396735570091528,
+      "depth_ratio": 1.9264969818929756,
+      "occlusion_ratio": 0.5528501321253303,
+      "n_faces": 10596
+    },
+    {
+      "uid": "bbcbf5dd952d4884a71d285c555c740e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-113/bbcbf5dd952d4884a71d285c555c740e.glb",
+      "pinned": false,
+      "score": 0.6850801287049586,
+      "depth_ratio": 1.0124302956278115,
+      "occlusion_ratio": 0.3577299617821057,
+      "n_faces": 38202
+    },
+    {
+      "uid": "6d148f92ef1d462c8b7c4f41632d2323",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-144/6d148f92ef1d462c8b7c4f41632d2323.glb",
+      "pinned": false,
+      "score": 0.8369721475904824,
+      "depth_ratio": 0.9856183039915376,
+      "occlusion_ratio": 0.6883259911894273,
+      "n_faces": 12712
+    },
+    {
+      "uid": "fb98826de9424fdaa7e72fa60fbd37b5",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-067/fb98826de9424fdaa7e72fa60fbd37b5.glb",
+      "pinned": false,
+      "score": 0.6286088177731463,
+      "depth_ratio": 0.9797215698005327,
+      "occlusion_ratio": 0.2774960657457598,
+      "n_faces": 11438
+    },
+    {
+      "uid": "32be461d3d2d4a5e8e9cacc5bab0b74b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-119/32be461d3d2d4a5e8e9cacc5bab0b74b.glb",
+      "pinned": false,
+      "score": 0.3326418027794709,
+      "depth_ratio": 0.06285120503939996,
+      "occlusion_ratio": 0.6024324005195418,
+      "n_faces": 8469
+    },
+    {
+      "uid": "7f2e79a73f3842a3ac0e6fd2830e6803",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-006/7f2e79a73f3842a3ac0e6fd2830e6803.glb",
+      "pinned": false,
+      "score": 0.7505334395512123,
+      "depth_ratio": 0.9989953738085777,
+      "occlusion_ratio": 0.5020715052938469,
+      "n_faces": 26068
+    },
+    {
+      "uid": "d5c9a5ebf8c742999c683d283fc0559c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-056/d5c9a5ebf8c742999c683d283fc0559c.glb",
+      "pinned": false,
+      "score": 0.6540605109521338,
+      "depth_ratio": 0.8940588643625152,
+      "occlusion_ratio": 0.41406215754175246,
+      "n_faces": 45626
+    },
+    {
+      "uid": "f413df2056854bb1b1be04879fbb1a19",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-131/f413df2056854bb1b1be04879fbb1a19.glb",
+      "pinned": false,
+      "score": 0.33873624694704496,
+      "depth_ratio": 0.4695893380805814,
+      "occlusion_ratio": 0.20788315581350847,
+      "n_faces": 78395
+    },
+    {
+      "uid": "091c4b56658a45d09a85616ed0b8006d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-046/091c4b56658a45d09a85616ed0b8006d.glb",
+      "pinned": false,
+      "score": 0.23961692831016576,
+      "depth_ratio": 0.03280528519176012,
+      "occlusion_ratio": 0.4464285714285714,
+      "n_faces": 112
+    },
+    {
+      "uid": "2f05880b56de4b329df28af52aa728b9",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/2f05880b56de4b329df28af52aa728b9.glb",
+      "pinned": false,
+      "score": 0.36452501088925326,
+      "depth_ratio": 0.42589552182889795,
+      "occlusion_ratio": 0.30315449994960864,
+      "n_faces": 59534
+    },
+    {
+      "uid": "91579c518542484f94fa5748502d93bd",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-020/91579c518542484f94fa5748502d93bd.glb",
+      "pinned": false,
+      "score": 0.5651716351706292,
+      "depth_ratio": 0.35499109604779433,
+      "occlusion_ratio": 0.775352174293464,
+      "n_faces": 22858
+    },
+    {
+      "uid": "f93f1b0841e04cf28070700f0bd1c415",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-060/f93f1b0841e04cf28070700f0bd1c415.glb",
+      "pinned": false,
+      "score": 0.7542754722061071,
+      "depth_ratio": 1.11183732938874,
+      "occlusion_ratio": 0.39671361502347413,
+      "n_faces": 1704
+    },
+    {
+      "uid": "3eb4dfd8451d46c89a000d860bab64f7",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-005/3eb4dfd8451d46c89a000d860bab64f7.glb",
+      "pinned": false,
+      "score": 0.9156934306569343,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.8313868613138686,
+      "n_faces": 19180
+    },
+    {
+      "uid": "65e32539c7604a78928cc8b2ec5522ab",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-027/65e32539c7604a78928cc8b2ec5522ab.glb",
+      "pinned": false,
+      "score": 0.253677280921952,
+      "depth_ratio": 0.030914771267987827,
+      "occlusion_ratio": 0.47643979057591623,
+      "n_faces": 764
+    },
+    {
+      "uid": "2daab835201745bca842af9751f69b18",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-003/2daab835201745bca842af9751f69b18.glb",
+      "pinned": false,
+      "score": 0.5089709796520395,
+      "depth_ratio": 0.880739215249198,
+      "occlusion_ratio": 0.1372027440548811,
+      "n_faces": 49999
+    },
+    {
+      "uid": "7f147bf93f3440cd877cc3ba48385011",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-140/7f147bf93f3440cd877cc3ba48385011.glb",
+      "pinned": false,
+      "score": 0.6253584219007032,
+      "depth_ratio": 0.7521108958460161,
+      "occlusion_ratio": 0.49860594795539037,
+      "n_faces": 32280
+    },
+    {
+      "uid": "5d2541d5e24f424ca87f610955eebc9d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-000/5d2541d5e24f424ca87f610955eebc9d.glb",
+      "pinned": false,
+      "score": 0.5127926821746517,
+      "depth_ratio": 0.9177813716088314,
+      "occlusion_ratio": 0.10780399274047192,
+      "n_faces": 8265
+    },
+    {
+      "uid": "8d99335b626d4840a54fa46b7cefc403",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-123/8d99335b626d4840a54fa46b7cefc403.glb",
+      "pinned": false,
+      "score": 1.437110755468783,
+      "depth_ratio": 2.190380761523046,
+      "occlusion_ratio": 0.6838407494145199,
+      "n_faces": 427
+    },
+    {
+      "uid": "e6e0807cbaf545859968dcc41accdc3b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-000/e6e0807cbaf545859968dcc41accdc3b.glb",
+      "pinned": false,
+      "score": 0.30701534624188687,
+      "depth_ratio": 0.2429163931054859,
+      "occlusion_ratio": 0.3711142993782879,
+      "n_faces": 4182
+    },
+    {
+      "uid": "7a5bf832a7c048dc8dc78d3aa3de8e90",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-096/7a5bf832a7c048dc8dc78d3aa3de8e90.glb",
+      "pinned": false,
+      "score": 0.6543044810820202,
+      "depth_ratio": 0.9711089621640405,
+      "occlusion_ratio": 0.3375,
+      "n_faces": 80
+    },
+    {
+      "uid": "6b25bb062c6b4715b776be5dc7405f80",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-072/6b25bb062c6b4715b776be5dc7405f80.glb",
+      "pinned": false,
+      "score": 0.7495150814847618,
+      "depth_ratio": 0.7874015748031497,
+      "occlusion_ratio": 0.7116285881663738,
+      "n_faces": 6828
+    },
+    {
+      "uid": "4350815719ed4eb5a2bc608f9065e188",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-136/4350815719ed4eb5a2bc608f9065e188.glb",
+      "pinned": false,
+      "score": 0.8028662311787149,
+      "depth_ratio": 1.211416298947128,
+      "occlusion_ratio": 0.39431616341030196,
+      "n_faces": 25335
+    },
+    {
+      "uid": "0f2cac736a144db589e1005dab3aa16c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-159/0f2cac736a144db589e1005dab3aa16c.glb",
+      "pinned": false,
+      "score": 0.47877990818581034,
+      "depth_ratio": 0.6370541983940926,
+      "occlusion_ratio": 0.3205056179775281,
+      "n_faces": 17800
+    },
+    {
+      "uid": "97d3edc13d2a41569b0a1a0c31671ce2",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-086/97d3edc13d2a41569b0a1a0c31671ce2.glb",
+      "pinned": false,
+      "score": 0.49887981979784923,
+      "depth_ratio": 0.39233795284871054,
+      "occlusion_ratio": 0.6054216867469879,
+      "n_faces": 7968
+    },
+    {
+      "uid": "a0423652ee0644ff8faf1c48a1641d57",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-084/a0423652ee0644ff8faf1c48a1641d57.glb",
+      "pinned": false,
+      "score": 0.8165035587188612,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.6330071174377224,
+      "n_faces": 2248
+    },
+    {
+      "uid": "e51ca6eff7db4e17aa23aef7210162e0",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-126/e51ca6eff7db4e17aa23aef7210162e0.glb",
+      "pinned": false,
+      "score": 0.3358424256765716,
+      "depth_ratio": 0.15073513068275216,
+      "occlusion_ratio": 0.520949720670391,
+      "n_faces": 716
+    },
+    {
+      "uid": "b3beefe65f914f469cb5e49ddd415414",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/b3beefe65f914f469cb5e49ddd415414.glb",
+      "pinned": false,
+      "score": 1.9396914928412876,
+      "depth_ratio": 3.400947313167955,
+      "occlusion_ratio": 0.47843567251461994,
+      "n_faces": 2736
+    },
+    {
+      "uid": "1cb7e273d5f54da6b3e25fb1200173f3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-003/1cb7e273d5f54da6b3e25fb1200173f3.glb",
+      "pinned": false,
+      "score": 0.8292564753673575,
+      "depth_ratio": 1.4285941781715379,
+      "occlusion_ratio": 0.22991877256317694,
+      "n_faces": 35456
+    },
+    {
+      "uid": "346a601ab7604487b56bbec8530af20f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-035/346a601ab7604487b56bbec8530af20f.glb",
+      "pinned": false,
+      "score": 0.48769679711529856,
+      "depth_ratio": 0.4661682116427691,
+      "occlusion_ratio": 0.509225382587828,
+      "n_faces": 25419
+    },
+    {
+      "uid": "9e548ad560bc43e7acab5fc18557506f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-086/9e548ad560bc43e7acab5fc18557506f.glb",
+      "pinned": false,
+      "score": 0.6791920435363086,
+      "depth_ratio": 1.0089010737786732,
+      "occlusion_ratio": 0.3494830132939438,
+      "n_faces": 6770
+    },
+    {
+      "uid": "9380040594d646d781675ae664673db7",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-071/9380040594d646d781675ae664673db7.glb",
+      "pinned": false,
+      "score": 0.5134324776131352,
+      "depth_ratio": 0.6829830986861858,
+      "occlusion_ratio": 0.3438818565400844,
+      "n_faces": 474
+    },
+    {
+      "uid": "16f4d5f711c74222b02a7e6bee13e004",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-022/16f4d5f711c74222b02a7e6bee13e004.glb",
+      "pinned": false,
+      "score": 0.7616685392156868,
+      "depth_ratio": 0.9786593440563736,
+      "occlusion_ratio": 0.544677734375,
+      "n_faces": 16384
+    },
+    {
+      "uid": "7b64ab795ac94414bc2a94d01165c40c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-116/7b64ab795ac94414bc2a94d01165c40c.glb",
+      "pinned": false,
+      "score": 0.27535844424400324,
+      "depth_ratio": 0.038564110710228666,
+      "occlusion_ratio": 0.5121527777777778,
+      "n_faces": 576
+    },
+    {
+      "uid": "c357b2b89b7d4a30b92f3b20b58da346",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-042/c357b2b89b7d4a30b92f3b20b58da346.glb",
+      "pinned": false,
+      "score": 0.4671664116992887,
+      "depth_ratio": 0.5176661567319107,
+      "occlusion_ratio": 0.41666666666666663,
+      "n_faces": 1992
+    },
+    {
+      "uid": "5e1beca2d7044973a6f0bd167eeaf423",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-072/5e1beca2d7044973a6f0bd167eeaf423.glb",
+      "pinned": false,
+      "score": 0.5347236674794973,
+      "depth_ratio": 0.9958871255349107,
+      "occlusion_ratio": 0.07356020942408381,
+      "n_faces": 26740
+    },
+    {
+      "uid": "1833d380f9e446c0958645f0e9f61132",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-031/1833d380f9e446c0958645f0e9f61132.glb",
+      "pinned": false,
+      "score": 0.32376867840148593,
+      "depth_ratio": 0.03627987177303171,
+      "occlusion_ratio": 0.6112574850299402,
+      "n_faces": 20875
+    },
+    {
+      "uid": "cdbad019e09c4a8b978cc45540acd454",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-092/cdbad019e09c4a8b978cc45540acd454.glb",
+      "pinned": false,
+      "score": 0.5248080391265146,
+      "depth_ratio": 0.5972600573106208,
+      "occlusion_ratio": 0.45235602094240834,
+      "n_faces": 955
+    },
+    {
+      "uid": "5870b8bc9f504422996ef990708167e1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-049/5870b8bc9f504422996ef990708167e1.glb",
+      "pinned": false,
+      "score": 0.5496397298517253,
+      "depth_ratio": 0.6370811462402344,
+      "occlusion_ratio": 0.46219831346321605,
+      "n_faces": 48146
+    },
+    {
+      "uid": "9d0fdf48cf8e41bfbca81fd09c1c4bfa",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-021/9d0fdf48cf8e41bfbca81fd09c1c4bfa.glb",
+      "pinned": false,
+      "score": 1.0032095859634107,
+      "depth_ratio": 1.153846153846154,
+      "occlusion_ratio": 0.8525730180806677,
+      "n_faces": 1438
+    },
+    {
+      "uid": "e6c9968f8c934354bc6b52821a87ce5d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-141/e6c9968f8c934354bc6b52821a87ce5d.glb",
+      "pinned": false,
+      "score": 0.6840122783936247,
+      "depth_ratio": 0.9997449868947762,
+      "occlusion_ratio": 0.3682795698924731,
+      "n_faces": 744
+    },
+    {
+      "uid": "2055bcbe871c4964a849005daf378c80",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-031/2055bcbe871c4964a849005daf378c80.glb",
+      "pinned": false,
+      "score": 0.4011645766747274,
+      "depth_ratio": 0.2713875320269426,
+      "occlusion_ratio": 0.5309416213225122,
+      "n_faces": 54215
+    },
+    {
+      "uid": "76ad0ad9a0ed4f09ab17282121925275",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-124/76ad0ad9a0ed4f09ab17282121925275.glb",
+      "pinned": false,
+      "score": 0.651455092226999,
+      "depth_ratio": 0.6773999803723655,
+      "occlusion_ratio": 0.6255102040816327,
+      "n_faces": 1960
+    },
+    {
+      "uid": "34cc749bfe314740ae1b5629388e15d2",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-108/34cc749bfe314740ae1b5629388e15d2.glb",
+      "pinned": false,
+      "score": 0.8453242415543955,
+      "depth_ratio": 1.0870016178681852,
+      "occlusion_ratio": 0.6036468652406057,
+      "n_faces": 59558
+    },
+    {
+      "uid": "ed1539bdd77f492b891e467ed6f9cb72",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-014/ed1539bdd77f492b891e467ed6f9cb72.glb",
+      "pinned": false,
+      "score": 0.9249508148708051,
+      "depth_ratio": 1.404031848877691,
+      "occlusion_ratio": 0.44586978086391915,
+      "n_faces": 88712
+    },
+    {
+      "uid": "cdb44565a727480998c6fa80369cc4bb",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/cdb44565a727480998c6fa80369cc4bb.glb",
+      "pinned": false,
+      "score": 0.5033780058339186,
+      "depth_ratio": 0.6095060116678372,
+      "occlusion_ratio": 0.39725,
+      "n_faces": 4000
+    },
+    {
+      "uid": "7284b7613f954a319f982dd010cdfa6f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-099/7284b7613f954a319f982dd010cdfa6f.glb",
+      "pinned": false,
+      "score": 0.5202151699723626,
+      "depth_ratio": 0.6634303399447252,
+      "occlusion_ratio": 0.377,
+      "n_faces": 4000
+    },
+    {
+      "uid": "6dfbcdd0d1224ebabd312f4a46c9d8a5",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-134/6dfbcdd0d1224ebabd312f4a46c9d8a5.glb",
+      "pinned": false,
+      "score": 0.9183697962178791,
+      "depth_ratio": 1.2682728614810812,
+      "occlusion_ratio": 0.5684667309546769,
+      "n_faces": 4148
+    },
+    {
+      "uid": "99a74217bbc04c589610ce09f4fc38a8",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-102/99a74217bbc04c589610ce09f4fc38a8.glb",
+      "pinned": false,
+      "score": 0.6593259438374186,
+      "depth_ratio": 1.0555470489651597,
+      "occlusion_ratio": 0.2631048387096774,
+      "n_faces": 9920
+    },
+    {
+      "uid": "f4510991a4234a1bb116314de927c980",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/f4510991a4234a1bb116314de927c980.glb",
+      "pinned": false,
+      "score": 0.6020351310087011,
+      "depth_ratio": 0.7012580268683153,
+      "occlusion_ratio": 0.5028122351490869,
+      "n_faces": 25958
+    },
+    {
+      "uid": "ef9df452fa534faf810f9f423d952674",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-031/ef9df452fa534faf810f9f423d952674.glb",
+      "pinned": false,
+      "score": 0.7743769892889627,
+      "depth_ratio": 1.1970873119112588,
+      "occlusion_ratio": 0.3516666666666667,
+      "n_faces": 1200
+    },
+    {
+      "uid": "84bba41f4e2f4665bd376bf3936eb547",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-060/84bba41f4e2f4665bd376bf3936eb547.glb",
+      "pinned": false,
+      "score": 0.5335631095020765,
+      "depth_ratio": 0.7585760331305471,
+      "occlusion_ratio": 0.30855018587360594,
+      "n_faces": 2152
+    },
+    {
+      "uid": "c5ff8ba5a56e403c9a03120d9ec0fb08",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-019/c5ff8ba5a56e403c9a03120d9ec0fb08.glb",
+      "pinned": false,
+      "score": 0.7128277834314775,
+      "depth_ratio": 0.9415422991150155,
+      "occlusion_ratio": 0.4841132677479394,
+      "n_faces": 15044
+    },
+    {
+      "uid": "cedc5d2e4e1749b9b727e42e260896bc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-038/cedc5d2e4e1749b9b727e42e260896bc.glb",
+      "pinned": false,
+      "score": 0.6142313854101655,
+      "depth_ratio": 0.9639730903001162,
+      "occlusion_ratio": 0.2644896805202148,
+      "n_faces": 14148
+    },
+    {
+      "uid": "12d91558d0d44357a7ce10d0722f77fc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-101/12d91558d0d44357a7ce10d0722f77fc.glb",
+      "pinned": false,
+      "score": 0.3493326860004001,
+      "depth_ratio": 0.2666666740841336,
+      "occlusion_ratio": 0.4319986979166667,
+      "n_faces": 30720
+    },
+    {
+      "uid": "ad01b0eaea5040928f0909c5803be53a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-003/ad01b0eaea5040928f0909c5803be53a.glb",
+      "pinned": false,
+      "score": 0.6638142598811676,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.3276285197623353,
+      "n_faces": 15484
+    },
+    {
+      "uid": "754a9e7abcf84d8fb0cc61eb32df794f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-159/754a9e7abcf84d8fb0cc61eb32df794f.glb",
+      "pinned": false,
+      "score": 1.5916587829087838,
+      "depth_ratio": 2.9290001316070415,
+      "occlusion_ratio": 0.2543174342105263,
+      "n_faces": 24320
+    },
+    {
+      "uid": "36e4844388ab421da100fe467bdee0c5",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-013/36e4844388ab421da100fe467bdee0c5.glb",
+      "pinned": false,
+      "score": 0.3645962290914633,
+      "depth_ratio": 0.1150267079080089,
+      "occlusion_ratio": 0.6141657502749176,
+      "n_faces": 60018
+    },
+    {
+      "uid": "6d8ffcec7e324549b69c2c192a21fc90",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-140/6d8ffcec7e324549b69c2c192a21fc90.glb",
+      "pinned": false,
+      "score": 0.37293468176957006,
+      "depth_ratio": 0.47775342151015465,
+      "occlusion_ratio": 0.2681159420289855,
+      "n_faces": 1104
+    },
+    {
+      "uid": "076bf98f18e94f588b8e8f91101e49be",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-010/076bf98f18e94f588b8e8f91101e49be.glb",
+      "pinned": false,
+      "score": 0.8295113922863867,
+      "depth_ratio": 1.179824017238413,
+      "occlusion_ratio": 0.4791987673343605,
+      "n_faces": 649
+    },
+    {
+      "uid": "8ba527e1581a4922a545c3491b495a33",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-132/8ba527e1581a4922a545c3491b495a33.glb",
+      "pinned": false,
+      "score": 0.9081342318396367,
+      "depth_ratio": 1.166666643428989,
+      "occlusion_ratio": 0.6496018202502845,
+      "n_faces": 1758
+    },
+    {
+      "uid": "8817826a57a142d2ac82dc42fb46961a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-129/8817826a57a142d2ac82dc42fb46961a.glb",
+      "pinned": false,
+      "score": 0.24155123926973743,
+      "depth_ratio": 0.06473513160069931,
+      "occlusion_ratio": 0.41836734693877553,
+      "n_faces": 1078
+    },
+    {
+      "uid": "2b9f03310ed949d9ba2702264279bb53",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-043/2b9f03310ed949d9ba2702264279bb53.glb",
+      "pinned": false,
+      "score": 0.5616256952080979,
+      "depth_ratio": 0.642214055822623,
+      "occlusion_ratio": 0.4810373345935728,
+      "n_faces": 67712
+    },
+    {
+      "uid": "240455b334b2445ab462ff2dac3ceb5f",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-024/240455b334b2445ab462ff2dac3ceb5f.glb",
+      "pinned": false,
+      "score": 0.7808246753894827,
+      "depth_ratio": 1.0043654001616815,
+      "occlusion_ratio": 0.557283950617284,
+      "n_faces": 4050
+    },
+    {
+      "uid": "6c497a3e45f6494ea63fd1fff5bb4838",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-137/6c497a3e45f6494ea63fd1fff5bb4838.glb",
+      "pinned": false,
+      "score": 0.6411960679449318,
+      "depth_ratio": 1.0941414831483494,
+      "occlusion_ratio": 0.1882506527415143,
+      "n_faces": 3830
+    },
+    {
+      "uid": "c87a39182e89485b8d1033889f48cfd9",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/c87a39182e89485b8d1033889f48cfd9.glb",
+      "pinned": false,
+      "score": 0.6647503795496106,
+      "depth_ratio": 0.5927784525741834,
+      "occlusion_ratio": 0.7367223065250379,
+      "n_faces": 1318
+    },
+    {
+      "uid": "a810b89050314a699ddcb51d5e6447d3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-130/a810b89050314a699ddcb51d5e6447d3.glb",
+      "pinned": false,
+      "score": 0.9976871089856578,
+      "depth_ratio": 1.605472997037516,
+      "occlusion_ratio": 0.38990122093379964,
+      "n_faces": 32598
+    },
+    {
+      "uid": "c2c95dc85d034ff29f3080ed19ccaa5a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-116/c2c95dc85d034ff29f3080ed19ccaa5a.glb",
+      "pinned": false,
+      "score": 2.509337025471259,
+      "depth_ratio": 4.810656325379576,
+      "occlusion_ratio": 0.20801772556294118,
+      "n_faces": 38814
+    },
+    {
+      "uid": "d78307ad8dd64a6c85a2f13ad96eb8ee",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-010/d78307ad8dd64a6c85a2f13ad96eb8ee.glb",
+      "pinned": false,
+      "score": 0.3474305871458603,
+      "depth_ratio": 0.40969988396913987,
+      "occlusion_ratio": 0.28516129032258064,
+      "n_faces": 3100
+    },
+    {
+      "uid": "7aa3128f9069478b9705c2bfde966873",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-125/7aa3128f9069478b9705c2bfde966873.glb",
+      "pinned": false,
+      "score": 0.41029997979373534,
+      "depth_ratio": 0.27418861621661855,
+      "occlusion_ratio": 0.5464113433708522,
+      "n_faces": 27364
+    },
+    {
+      "uid": "76a7f67152fe4c88923bf3540aa3a836",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-133/76a7f67152fe4c88923bf3540aa3a836.glb",
+      "pinned": false,
+      "score": 0.9345389426682484,
+      "depth_ratio": 1.084764159846301,
+      "occlusion_ratio": 0.7843137254901961,
+      "n_faces": 204
+    },
+    {
+      "uid": "7ac053d6bcf94ca5a6a6b93058aeb21b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-016/7ac053d6bcf94ca5a6a6b93058aeb21b.glb",
+      "pinned": false,
+      "score": 0.40207718037075146,
+      "depth_ratio": 0.3157894736842105,
+      "occlusion_ratio": 0.4883648870572924,
+      "n_faces": 32273
+    },
+    {
+      "uid": "6c4c26351b5441e5a1672c7159be3d1e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-036/6c4c26351b5441e5a1672c7159be3d1e.glb",
+      "pinned": false,
+      "score": 0.34522381465493057,
+      "depth_ratio": 0.3550253722722439,
+      "occlusion_ratio": 0.3354222570376173,
+      "n_faces": 59999
+    },
+    {
+      "uid": "33b1fb1dd1bd4c308e55aba10a12f74d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-018/33b1fb1dd1bd4c308e55aba10a12f74d.glb",
+      "pinned": false,
+      "score": 0.49162707936656214,
+      "depth_ratio": 0.3863791587331242,
+      "occlusion_ratio": 0.596875,
+      "n_faces": 640
+    },
+    {
+      "uid": "07e8d16237f649f3b31c9fac2f18ff7d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/07e8d16237f649f3b31c9fac2f18ff7d.glb",
+      "pinned": false,
+      "score": 0.3407078491501705,
+      "depth_ratio": 0.4000759853816806,
+      "occlusion_ratio": 0.28133971291866033,
+      "n_faces": 1045
+    },
+    {
+      "uid": "832bf8ed1a3b4c60b005a69b84f78f55",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-096/832bf8ed1a3b4c60b005a69b84f78f55.glb",
+      "pinned": false,
+      "score": 0.45634589438602285,
+      "depth_ratio": 0.6018973679109177,
+      "occlusion_ratio": 0.31079442086112796,
+      "n_faces": 3298
+    },
+    {
+      "uid": "b16e7c6b479f45119f23b068cc529557",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-060/b16e7c6b479f45119f23b068cc529557.glb",
+      "pinned": false,
+      "score": 2.7346725432588395,
+      "depth_ratio": 4.774209339911344,
+      "occlusion_ratio": 0.6951357466063348,
+      "n_faces": 1768
+    },
+    {
+      "uid": "6accdcca653a48af9405cf1492f94ec5",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-018/6accdcca653a48af9405cf1492f94ec5.glb",
+      "pinned": false,
+      "score": 0.6423205514424535,
+      "depth_ratio": 0.9895239864967037,
+      "occlusion_ratio": 0.29511711638820337,
+      "n_faces": 49438
+    },
+    {
+      "uid": "c28db38e1aa240ff99c58b989023ad2e",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/c28db38e1aa240ff99c58b989023ad2e.glb",
+      "pinned": false,
+      "score": 0.8032348520243178,
+      "depth_ratio": 0.9216435008400794,
+      "occlusion_ratio": 0.6848262032085561,
+      "n_faces": 8976
+    },
+    {
+      "uid": "e15cb85adcce40208025e9b28258691c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-100/e15cb85adcce40208025e9b28258691c.glb",
+      "pinned": false,
+      "score": 0.6964975102109326,
+      "depth_ratio": 0.6552901023890785,
+      "occlusion_ratio": 0.7377049180327868,
+      "n_faces": 122
+    },
+    {
+      "uid": "6ae8f4a797f944439d2f940e4e0da8f3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-059/6ae8f4a797f944439d2f940e4e0da8f3.glb",
+      "pinned": false,
+      "score": 0.4935959813024266,
+      "depth_ratio": 0.5340872709776677,
+      "occlusion_ratio": 0.4531046916271855,
+      "n_faces": 23851
+    },
+    {
+      "uid": "b4e16db9e36a4caba8707192f08a3992",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-135/b4e16db9e36a4caba8707192f08a3992.glb",
+      "pinned": false,
+      "score": 0.4178264148273231,
+      "depth_ratio": 0.418032892687213,
+      "occlusion_ratio": 0.41761993696743316,
+      "n_faces": 34268
+    },
+    {
+      "uid": "f58a85f8de45409e83dd4e2862d9067c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-144/f58a85f8de45409e83dd4e2862d9067c.glb",
+      "pinned": false,
+      "score": 0.7543890802123691,
+      "depth_ratio": 1.025082508250825,
+      "occlusion_ratio": 0.4836956521739131,
+      "n_faces": 4048
+    },
+    {
+      "uid": "3c84a4e9b1dd45a9b8a6a22dde1aa9cc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/3c84a4e9b1dd45a9b8a6a22dde1aa9cc.glb",
+      "pinned": false,
+      "score": 0.4020675972698554,
+      "depth_ratio": 0.47278993277695397,
+      "occlusion_ratio": 0.3313452617627568,
+      "n_faces": 3018
+    },
+    {
+      "uid": "d88a8a9313434abdbc62a795c02a7ce8",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-108/d88a8a9313434abdbc62a795c02a7ce8.glb",
+      "pinned": false,
+      "score": 0.6149426622130677,
+      "depth_ratio": 0.9919730224609375,
+      "occlusion_ratio": 0.23791230196519786,
+      "n_faces": 92408
+    },
+    {
+      "uid": "48bc4a0e147a4ed295d6c5544b53ab25",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-025/48bc4a0e147a4ed295d6c5544b53ab25.glb",
+      "pinned": false,
+      "score": 0.4844261079832952,
+      "depth_ratio": 0.9649633270777015,
+      "occlusion_ratio": 0.0038888888888889417,
+      "n_faces": 1800
+    },
+    {
+      "uid": "0750394baf3048e2958ba60dda7043e3",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-071/0750394baf3048e2958ba60dda7043e3.glb",
+      "pinned": false,
+      "score": 1.4467379103340523,
+      "depth_ratio": 2.694355820668105,
+      "occlusion_ratio": 0.19911999999999996,
+      "n_faces": 25000
+    },
+    {
+      "uid": "d075196373554511bbf41b74faff2efa",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-026/d075196373554511bbf41b74faff2efa.glb",
+      "pinned": false,
+      "score": 0.43872739687226436,
+      "depth_ratio": 0.43201905544610625,
+      "occlusion_ratio": 0.44543573829842253,
+      "n_faces": 15468
+    },
+    {
+      "uid": "184da3472d4a4e03a8210b728d7f68e4",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-050/184da3472d4a4e03a8210b728d7f68e4.glb",
+      "pinned": false,
+      "score": 0.23354870079057038,
+      "depth_ratio": 0.04560979827535561,
+      "occlusion_ratio": 0.42148760330578516,
+      "n_faces": 8712
+    },
+    {
+      "uid": "38c8eb12db9f4bbc9f74df79c6b5d21d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-071/38c8eb12db9f4bbc9f74df79c6b5d21d.glb",
+      "pinned": false,
+      "score": 0.3995263377642214,
+      "depth_ratio": 0.1990526755284428,
+      "occlusion_ratio": 0.6,
+      "n_faces": 50
+    },
+    {
+      "uid": "6acf7559f90a4624a99d358994aee7ce",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-002/6acf7559f90a4624a99d358994aee7ce.glb",
+      "pinned": false,
+      "score": 0.2899228481528595,
+      "depth_ratio": 0.2121623629723857,
+      "occlusion_ratio": 0.36768333333333336,
+      "n_faces": 60000
+    },
+    {
+      "uid": "b7e0f15823d845a7a701d5284e5f1001",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-130/b7e0f15823d845a7a701d5284e5f1001.glb",
+      "pinned": false,
+      "score": 0.6841867668475408,
+      "depth_ratio": 0.6760325557634502,
+      "occlusion_ratio": 0.6923409779316314,
+      "n_faces": 2311
+    },
+    {
+      "uid": "923ddd4c85974d1995363c7051afb2ba",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-090/923ddd4c85974d1995363c7051afb2ba.glb",
+      "pinned": false,
+      "score": 0.4602262497001614,
+      "depth_ratio": 0.5812173719215693,
+      "occlusion_ratio": 0.3392351274787535,
+      "n_faces": 5648
+    },
+    {
+      "uid": "20bd7e6146de44758c83b0b3106af30a",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-067/20bd7e6146de44758c83b0b3106af30a.glb",
+      "pinned": false,
+      "score": 1.0212468168565572,
+      "depth_ratio": 1.4514099029235012,
+      "occlusion_ratio": 0.5910837307896131,
+      "n_faces": 30192
+    },
+    {
+      "uid": "7829c9d2ae02496aa1ff0415f6645d8d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-108/7829c9d2ae02496aa1ff0415f6645d8d.glb",
+      "pinned": false,
+      "score": 1.0544126283141002,
+      "depth_ratio": 1.4706820798944196,
+      "occlusion_ratio": 0.6381431767337807,
+      "n_faces": 1788
+    },
+    {
+      "uid": "9340c2b047114eebb1e5670464582ef4",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-028/9340c2b047114eebb1e5670464582ef4.glb",
+      "pinned": false,
+      "score": 0.9166666666666667,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.8333333333333334,
+      "n_faces": 24
+    },
+    {
+      "uid": "b8b03248c9d8412ca1e55a3deb80a402",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/b8b03248c9d8412ca1e55a3deb80a402.glb",
+      "pinned": false,
+      "score": 0.29597084405792495,
+      "depth_ratio": 0.13053665776025583,
+      "occlusion_ratio": 0.4614050303555941,
+      "n_faces": 1153
+    },
+    {
+      "uid": "86ebe87f72da4f04a993271541b4bd59",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-133/86ebe87f72da4f04a993271541b4bd59.glb",
+      "pinned": false,
+      "score": 0.7197195125597542,
+      "depth_ratio": 1.0008631671060368,
+      "occlusion_ratio": 0.43857585801347165,
+      "n_faces": 9353
+    },
+    {
+      "uid": "ec477c00b5aa4f7798c88d7f49367e45",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/ec477c00b5aa4f7798c88d7f49367e45.glb",
+      "pinned": false,
+      "score": 0.6485454045834034,
+      "depth_ratio": 0.7056910569105691,
+      "occlusion_ratio": 0.5913997522562378,
+      "n_faces": 5651
+    },
+    {
+      "uid": "11a6fec52e8949669a698b101d5625eb",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-050/11a6fec52e8949669a698b101d5625eb.glb",
+      "pinned": false,
+      "score": 0.29961690804556385,
+      "depth_ratio": 0.292148382925781,
+      "occlusion_ratio": 0.30708543316534676,
+      "n_faces": 66672
+    },
+    {
+      "uid": "cbf364cb8ed94abebdaa0f89c3788727",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-063/cbf364cb8ed94abebdaa0f89c3788727.glb",
+      "pinned": false,
+      "score": 0.5995160250248408,
+      "depth_ratio": 0.9992771480888974,
+      "occlusion_ratio": 0.19975490196078427,
+      "n_faces": 55488
+    },
+    {
+      "uid": "5bc926be23654f2e89d9cf3ad226e8c6",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-029/5bc926be23654f2e89d9cf3ad226e8c6.glb",
+      "pinned": false,
+      "score": 0.45443864638118736,
+      "depth_ratio": 0.1116550705401524,
+      "occlusion_ratio": 0.7972222222222223,
+      "n_faces": 1080
+    },
+    {
+      "uid": "a377adf9280a4c069d5ff301fc1729fc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/a377adf9280a4c069d5ff301fc1729fc.glb",
+      "pinned": false,
+      "score": 0.8680760049446277,
+      "depth_ratio": 1.4264932410421858,
+      "occlusion_ratio": 0.30965876884706944,
+      "n_faces": 70568
+    },
+    {
+      "uid": "b705e2ab882a4e4897ef0cdc5da4f313",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-052/b705e2ab882a4e4897ef0cdc5da4f313.glb",
+      "pinned": false,
+      "score": 2.5361797212623616,
+      "depth_ratio": 4.685302558765448,
+      "occlusion_ratio": 0.3870568837592745,
+      "n_faces": 4852
+    },
+    {
+      "uid": "5512449ead5e4101bff9757ff21892ff",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-038/5512449ead5e4101bff9757ff21892ff.glb",
+      "pinned": false,
+      "score": 0.3553253625619341,
+      "depth_ratio": 0.4325150097461409,
+      "occlusion_ratio": 0.2781357153777273,
+      "n_faces": 45787
+    },
+    {
+      "uid": "390108f07f32445984e86a0919a11107",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-026/390108f07f32445984e86a0919a11107.glb",
+      "pinned": false,
+      "score": 0.719765378941913,
+      "depth_ratio": 0.7870370370370371,
+      "occlusion_ratio": 0.6524937208467887,
+      "n_faces": 5574
+    },
+    {
+      "uid": "4081ef75f13848019b70f00b01639bed",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-134/4081ef75f13848019b70f00b01639bed.glb",
+      "pinned": false,
+      "score": 0.9457534349100118,
+      "depth_ratio": 1.13757820930618,
+      "occlusion_ratio": 0.7539286605138439,
+      "n_faces": 16036
+    },
+    {
+      "uid": "51f85f8e9db14c95bec10a6d3bde4622",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-072/51f85f8e9db14c95bec10a6d3bde4622.glb",
+      "pinned": false,
+      "score": 0.7072063309652508,
+      "depth_ratio": 0.9472516974308233,
+      "occlusion_ratio": 0.46716096449967814,
+      "n_faces": 80788
+    },
+    {
+      "uid": "bab566135cc844edb7f74a7c72abd1a6",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/bab566135cc844edb7f74a7c72abd1a6.glb",
+      "pinned": false,
+      "score": 0.598671227501478,
+      "depth_ratio": 0.8643424550029561,
+      "occlusion_ratio": 0.33299999999999996,
+      "n_faces": 2000
+    },
+    {
+      "uid": "4482f47c5bec4409bd164756db982e8d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-001/4482f47c5bec4409bd164756db982e8d.glb",
+      "pinned": false,
+      "score": 0.3206457761864667,
+      "depth_ratio": 0.03570533770911992,
+      "occlusion_ratio": 0.6055862146638136,
+      "n_faces": 44395
+    },
+    {
+      "uid": "2ed1a245b525473c9990cb23191217a8",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-083/2ed1a245b525473c9990cb23191217a8.glb",
+      "pinned": false,
+      "score": 1.0150557924154955,
+      "depth_ratio": 1.5571428571428572,
+      "occlusion_ratio": 0.4729687276881337,
+      "n_faces": 35015
+    },
+    {
+      "uid": "927482c3352a4b589820ac8eedf2bdbc",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-058/927482c3352a4b589820ac8eedf2bdbc.glb",
+      "pinned": false,
+      "score": 0.5014458285117054,
+      "depth_ratio": 0.5262410934163253,
+      "occlusion_ratio": 0.47665056360708535,
+      "n_faces": 2484
+    },
+    {
+      "uid": "279ebb26f5224edfa8173f6ccea8a785",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-104/279ebb26f5224edfa8173f6ccea8a785.glb",
+      "pinned": false,
+      "score": 0.8435243139142995,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.687048627828599,
+      "n_faces": 12462
+    },
+    {
+      "uid": "a90e25d2b9194a3fbce75a468da9f8d2",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-154/a90e25d2b9194a3fbce75a468da9f8d2.glb",
+      "pinned": false,
+      "score": 0.5248960126791622,
+      "depth_ratio": 0.4502098526563746,
+      "occlusion_ratio": 0.5995821727019499,
+      "n_faces": 1436
+    },
+    {
+      "uid": "946c778008614e6e8c84c4f751279d88",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-115/946c778008614e6e8c84c4f751279d88.glb",
+      "pinned": false,
+      "score": 0.862272051601057,
+      "depth_ratio": 1.4207745794977154,
+      "occlusion_ratio": 0.3037695237043987,
+      "n_faces": 18119
+    },
+    {
+      "uid": "481b0c7361f64970b813548ea0c8d184",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-069/481b0c7361f64970b813548ea0c8d184.glb",
+      "pinned": false,
+      "score": 0.6630434782608696,
+      "depth_ratio": 0.7500000000000002,
+      "occlusion_ratio": 0.5760869565217391,
+      "n_faces": 92
+    },
+    {
+      "uid": "66ca5bfb6aeb421a8cbccd6db0ae1458",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/66ca5bfb6aeb421a8cbccd6db0ae1458.glb",
+      "pinned": false,
+      "score": 0.24455639351182376,
+      "depth_ratio": 0.2292241086721553,
+      "occlusion_ratio": 0.2598886783514922,
+      "n_faces": 16888
+    },
+    {
+      "uid": "9a33d127e5f440af9b46c012340c28f1",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/9a33d127e5f440af9b46c012340c28f1.glb",
+      "pinned": false,
+      "score": 0.6118372121074855,
+      "depth_ratio": 0.910099428838607,
+      "occlusion_ratio": 0.313574995376364,
+      "n_faces": 43256
+    },
+    {
+      "uid": "98747de357684334a0cebbb24029703d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/98747de357684334a0cebbb24029703d.glb",
+      "pinned": false,
+      "score": 0.3403345418150755,
+      "depth_ratio": 0.4740531360184407,
+      "occlusion_ratio": 0.20661594761171032,
+      "n_faces": 20768
+    },
+    {
+      "uid": "10b1cfda7789436ea6426e19ae9ce9df",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-130/10b1cfda7789436ea6426e19ae9ce9df.glb",
+      "pinned": false,
+      "score": 0.34909711964346585,
+      "depth_ratio": 0.29202742473502397,
+      "occlusion_ratio": 0.40616681455190773,
+      "n_faces": 4508
+    },
+    {
+      "uid": "516387ef019d4f50a1e4e5a0ea25d818",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-125/516387ef019d4f50a1e4e5a0ea25d818.glb",
+      "pinned": false,
+      "score": 0.4738152401673545,
+      "depth_ratio": 0.7542774800836419,
+      "occlusion_ratio": 0.19335300025106705,
+      "n_faces": 31864
+    },
+    {
+      "uid": "62f4458b77c74b0bb9c28e7b52a2658b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-011/62f4458b77c74b0bb9c28e7b52a2658b.glb",
+      "pinned": false,
+      "score": 0.3783552846071079,
+      "depth_ratio": 0.5385668402771541,
+      "occlusion_ratio": 0.2181437289370617,
+      "n_faces": 21958
+    },
+    {
+      "uid": "8c51d37795264cc99961417a56b3c1c0",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-100/8c51d37795264cc99961417a56b3c1c0.glb",
+      "pinned": false,
+      "score": 0.6472634933526829,
+      "depth_ratio": 0.9997079077579973,
+      "occlusion_ratio": 0.2948190789473685,
+      "n_faces": 2432
+    },
+    {
+      "uid": "9c79e4ea3500400eacadd2010738a667",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-032/9c79e4ea3500400eacadd2010738a667.glb",
+      "pinned": false,
+      "score": 0.5104838585501081,
+      "depth_ratio": 0.3999999751647324,
+      "occlusion_ratio": 0.6209677419354839,
+      "n_faces": 620
+    },
+    {
+      "uid": "d529fe385c49433088b1efa7bf49703b",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-146/d529fe385c49433088b1efa7bf49703b.glb",
+      "pinned": false,
+      "score": 0.7847960778999207,
+      "depth_ratio": 1.0004745087410178,
+      "occlusion_ratio": 0.5691176470588235,
+      "n_faces": 1360
+    },
+    {
+      "uid": "7b777e4d03914862804c2f147f7179aa",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-031/7b777e4d03914862804c2f147f7179aa.glb",
+      "pinned": false,
+      "score": 0.2856399682416811,
+      "depth_ratio": 0.14182221589512686,
+      "occlusion_ratio": 0.4294577205882353,
+      "n_faces": 4352
+    },
+    {
+      "uid": "19b8f8773262466cafa5e7765f5d636c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-054/19b8f8773262466cafa5e7765f5d636c.glb",
+      "pinned": false,
+      "score": 0.8632743362831857,
+      "depth_ratio": 1.0749999999999997,
+      "occlusion_ratio": 0.6515486725663717,
+      "n_faces": 3616
+    },
+    {
+      "uid": "94c6be6c021a47ca9bf1220c722afb50",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-121/94c6be6c021a47ca9bf1220c722afb50.glb",
+      "pinned": false,
+      "score": 0.4147124605533258,
+      "depth_ratio": 0.431846019247594,
+      "occlusion_ratio": 0.39757890185905753,
+      "n_faces": 23130
+    },
+    {
+      "uid": "1d0bad0e72734b39b76e8af3f8fd7b52",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-122/1d0bad0e72734b39b76e8af3f8fd7b52.glb",
+      "pinned": false,
+      "score": 0.6172091525889511,
+      "depth_ratio": 0.885657016430038,
+      "occlusion_ratio": 0.3487612887478643,
+      "n_faces": 65552
+    },
+    {
+      "uid": "649d5abce5c34ee58168f948d07ef286",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-127/649d5abce5c34ee58168f948d07ef286.glb",
+      "pinned": false,
+      "score": 0.48440269771042954,
+      "depth_ratio": 0.44957462619009,
+      "occlusion_ratio": 0.5192307692307692,
+      "n_faces": 52
+    },
+    {
+      "uid": "4141ab90a1c443e685e053e20bc38964",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-073/4141ab90a1c443e685e053e20bc38964.glb",
+      "pinned": false,
+      "score": 0.44144535390848716,
+      "depth_ratio": 0.565721777426482,
+      "occlusion_ratio": 0.3171689303904923,
+      "n_faces": 9424
+    },
+    {
+      "uid": "af7551baa468401d8fc2c5a9db3edf46",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-101/af7551baa468401d8fc2c5a9db3edf46.glb",
+      "pinned": false,
+      "score": 0.3722000796651824,
+      "depth_ratio": 0.15378821702008044,
+      "occlusion_ratio": 0.5906119423102845,
+      "n_faces": 29676
+    },
+    {
+      "uid": "1ac8602d463846449375e9412eb88ccf",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-115/1ac8602d463846449375e9412eb88ccf.glb",
+      "pinned": false,
+      "score": 0.6716546930869391,
+      "depth_ratio": 0.9976146768428055,
+      "occlusion_ratio": 0.34569470933107294,
+      "n_faces": 28314
+    },
+    {
+      "uid": "081a4ba8a4f74346b906cd885a4ca44d",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-013/081a4ba8a4f74346b906cd885a4ca44d.glb",
+      "pinned": false,
+      "score": 1.1362727627249842,
+      "depth_ratio": 2.118644115734605,
+      "occlusion_ratio": 0.15390140971536326,
+      "n_faces": 11137
+    },
+    {
+      "uid": "db338740fd27427cbaca19192200499c",
+      "glb_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-052/db338740fd27427cbaca19192200499c.glb",
+      "pinned": false,
+      "score": 0.7133333333333334,
+      "depth_ratio": 1.0,
+      "occlusion_ratio": 0.42666666666666664,
+      "n_faces": 300
+    }
+  ]
+}

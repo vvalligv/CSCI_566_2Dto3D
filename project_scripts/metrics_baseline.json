@@ -1,0 +1,160 @@
+{
+  "summary": {
+    "hard": {
+      "mean_chamfer": 0.05017315480053055,
+      "mean_f_score": 0.2448545275644681,
+      "n": 10
+    },
+    "easy": {
+      "mean_chamfer": 0.07927999668989284,
+      "mean_f_score": 0.19527891109588444,
+      "n": 10
+    }
+  },
+  "per_object": {
+    "hard": [
+      {
+        "uid": "3564578cde5c42279ead680df1619e3c",
+        "chamfer_distance": 0.020667193428074146,
+        "f_score": 0.326785853780671,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/3564578cde5c42279ead680df1619e3c.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/3564578cde5c42279ead680df1619e3c.glb"
+      },
+      {
+        "uid": "8476c4170df24cf5bbe6967222d1a42d",
+        "chamfer_distance": 0.0554380685119283,
+        "f_score": 0.27995521700620013,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/8476c4170df24cf5bbe6967222d1a42d.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-023/8476c4170df24cf5bbe6967222d1a42d.glb"
+      },
+      {
+        "uid": "b16e7c6b479f45119f23b068cc529557",
+        "chamfer_distance": 0.080702564522936,
+        "f_score": 0.09780797886393659,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/b16e7c6b479f45119f23b068cc529557.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-060/b16e7c6b479f45119f23b068cc529557.glb"
+      },
+      {
+        "uid": "b705e2ab882a4e4897ef0cdc5da4f313",
+        "chamfer_distance": 0.05304372248684413,
+        "f_score": 0.2317579052924791,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/b705e2ab882a4e4897ef0cdc5da4f313.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-052/b705e2ab882a4e4897ef0cdc5da4f313.glb"
+      },
+      {
+        "uid": "c2c95dc85d034ff29f3080ed19ccaa5a",
+        "chamfer_distance": 0.07054100167615983,
+        "f_score": 0.055827387678235134,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/c2c95dc85d034ff29f3080ed19ccaa5a.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-116/c2c95dc85d034ff29f3080ed19ccaa5a.glb"
+      },
+      {
+        "uid": "b3beefe65f914f469cb5e49ddd415414",
+        "chamfer_distance": 0.056902999135467563,
+        "f_score": 0.30427520794537555,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/b3beefe65f914f469cb5e49ddd415414.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-147/b3beefe65f914f469cb5e49ddd415414.glb"
+      },
+      {
+        "uid": "35ebec582c7c4552b06406426ec961aa",
+        "chamfer_distance": 0.040109473751423805,
+        "f_score": 0.19780333204184425,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/35ebec582c7c4552b06406426ec961aa.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-121/35ebec582c7c4552b06406426ec961aa.glb"
+      },
+      {
+        "uid": "754a9e7abcf84d8fb0cc61eb32df794f",
+        "chamfer_distance": 0.047947225211636,
+        "f_score": 0.298099378238342,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/754a9e7abcf84d8fb0cc61eb32df794f.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-159/754a9e7abcf84d8fb0cc61eb32df794f.glb"
+      },
+      {
+        "uid": "fef5ea167f0d42c2bc379f582ab0e670",
+        "chamfer_distance": 0.029439277904506,
+        "f_score": 0.3963075552387741,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/fef5ea167f0d42c2bc379f582ab0e670.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-040/fef5ea167f0d42c2bc379f582ab0e670.glb"
+      },
+      {
+        "uid": "0750394baf3048e2958ba60dda7043e3",
+        "chamfer_distance": 0.04694002137632976,
+        "f_score": 0.2599254595588235,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/hard/0750394baf3048e2958ba60dda7043e3.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-071/0750394baf3048e2958ba60dda7043e3.glb"
+      }
+    ],
+    "easy": [
+      {
+        "uid": "788b2ac8c80b4ca19dd716ba9b5d2f91",
+        "chamfer_distance": 0.0688401596114959,
+        "f_score": 0.250653104173974,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/788b2ac8c80b4ca19dd716ba9b5d2f91.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-034/788b2ac8c80b4ca19dd716ba9b5d2f91.glb"
+      },
+      {
+        "uid": "931fc16054f04a58bac55cb1372b6b11",
+        "chamfer_distance": 0.0637773995386047,
+        "f_score": 0.30304821252869796,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/931fc16054f04a58bac55cb1372b6b11.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/931fc16054f04a58bac55cb1372b6b11.glb"
+      },
+      {
+        "uid": "0ebd9b8149614d7ebf848a22897d4491",
+        "chamfer_distance": 0.08056400390900666,
+        "f_score": 0.190343410102574,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/0ebd9b8149614d7ebf848a22897d4491.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-155/0ebd9b8149614d7ebf848a22897d4491.glb"
+      },
+      {
+        "uid": "d62a66449279499e998557408c4394cc",
+        "chamfer_distance": 0.102032287320518,
+        "f_score": 0.1566090059055118,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/d62a66449279499e998557408c4394cc.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-093/d62a66449279499e998557408c4394cc.glb"
+      },
+      {
+        "uid": "65e32539c7604a78928cc8b2ec5522ab",
+        "chamfer_distance": 0.1005190180533714,
+        "f_score": 0.15424038272816487,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/65e32539c7604a78928cc8b2ec5522ab.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-027/65e32539c7604a78928cc8b2ec5522ab.glb"
+      },
+      {
+        "uid": "66ca5bfb6aeb421a8cbccd6db0ae1458",
+        "chamfer_distance": 0.048478068259353066,
+        "f_score": 0.2035892291720737,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/66ca5bfb6aeb421a8cbccd6db0ae1458.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-118/66ca5bfb6aeb421a8cbccd6db0ae1458.glb"
+      },
+      {
+        "uid": "8817826a57a142d2ac82dc42fb46961a",
+        "chamfer_distance": 0.06443964591901569,
+        "f_score": 0.23871446862996162,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/8817826a57a142d2ac82dc42fb46961a.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-129/8817826a57a142d2ac82dc42fb46961a.glb"
+      },
+      {
+        "uid": "e5d3a3f2bdf044c78a24c8fd4cf9b5ef",
+        "chamfer_distance": 0.07629089963034417,
+        "f_score": 0.14291642314436,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-140/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.glb"
+      },
+      {
+        "uid": "091c4b56658a45d09a85616ed0b8006d",
+        "chamfer_distance": 0.12000252460831302,
+        "f_score": 0.14275747156836818,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/091c4b56658a45d09a85616ed0b8006d.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-046/091c4b56658a45d09a85616ed0b8006d.glb"
+      },
+      {
+        "uid": "184da3472d4a4e03a8210b728d7f68e4",
+        "chamfer_distance": 0.06785596004890569,
+        "f_score": 0.16991740300515812,
+        "pred_path": "/home/msharpe/project_scripts/inference_outputs/easy/184da3472d4a4e03a8210b728d7f68e4.obj",
+        "gt_path": "/home/msharpe/.objaverse/hf-objaverse-v1/glbs/000-050/184da3472d4a4e03a8210b728d7f68e4.glb"
+      }
+    ]
+  }
+}
