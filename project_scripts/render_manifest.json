@@ -1,26 +1,26 @@
 {
   "hard": {
-    "3564578cde5c42279ead680df1619e3c": "/home/msharpe/project_scripts/dataset_renders/hard/3564578cde5c42279ead680df1619e3c.png",
-    "8476c4170df24cf5bbe6967222d1a42d": "/home/msharpe/project_scripts/dataset_renders/hard/8476c4170df24cf5bbe6967222d1a42d.png",
-    "b16e7c6b479f45119f23b068cc529557": "/home/msharpe/project_scripts/dataset_renders/hard/b16e7c6b479f45119f23b068cc529557.png",
-    "b705e2ab882a4e4897ef0cdc5da4f313": "/home/msharpe/project_scripts/dataset_renders/hard/b705e2ab882a4e4897ef0cdc5da4f313.png",
-    "c2c95dc85d034ff29f3080ed19ccaa5a": "/home/msharpe/project_scripts/dataset_renders/hard/c2c95dc85d034ff29f3080ed19ccaa5a.png",
-    "b3beefe65f914f469cb5e49ddd415414": "/home/msharpe/project_scripts/dataset_renders/hard/b3beefe65f914f469cb5e49ddd415414.png",
-    "35ebec582c7c4552b06406426ec961aa": "/home/msharpe/project_scripts/dataset_renders/hard/35ebec582c7c4552b06406426ec961aa.png",
-    "754a9e7abcf84d8fb0cc61eb32df794f": "/home/msharpe/project_scripts/dataset_renders/hard/754a9e7abcf84d8fb0cc61eb32df794f.png",
-    "fef5ea167f0d42c2bc379f582ab0e670": "/home/msharpe/project_scripts/dataset_renders/hard/fef5ea167f0d42c2bc379f582ab0e670.png",
-    "0750394baf3048e2958ba60dda7043e3": "/home/msharpe/project_scripts/dataset_renders/hard/0750394baf3048e2958ba60dda7043e3.png"
+    "3564578cde5c42279ead680df1619e3c": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/3564578cde5c42279ead680df1619e3c.png",
+    "8476c4170df24cf5bbe6967222d1a42d": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/8476c4170df24cf5bbe6967222d1a42d.png",
+    "b16e7c6b479f45119f23b068cc529557": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/b16e7c6b479f45119f23b068cc529557.png",
+    "b705e2ab882a4e4897ef0cdc5da4f313": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/b705e2ab882a4e4897ef0cdc5da4f313.png",
+    "c2c95dc85d034ff29f3080ed19ccaa5a": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/c2c95dc85d034ff29f3080ed19ccaa5a.png",
+    "b3beefe65f914f469cb5e49ddd415414": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/b3beefe65f914f469cb5e49ddd415414.png",
+    "35ebec582c7c4552b06406426ec961aa": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/35ebec582c7c4552b06406426ec961aa.png",
+    "754a9e7abcf84d8fb0cc61eb32df794f": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/754a9e7abcf84d8fb0cc61eb32df794f.png",
+    "fef5ea167f0d42c2bc379f582ab0e670": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/fef5ea167f0d42c2bc379f582ab0e670.png",
+    "0750394baf3048e2958ba60dda7043e3": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/hard/0750394baf3048e2958ba60dda7043e3.png"
   },
   "easy": {
-    "788b2ac8c80b4ca19dd716ba9b5d2f91": "/home/msharpe/project_scripts/dataset_renders/easy/788b2ac8c80b4ca19dd716ba9b5d2f91.png",
-    "931fc16054f04a58bac55cb1372b6b11": "/home/msharpe/project_scripts/dataset_renders/easy/931fc16054f04a58bac55cb1372b6b11.png",
-    "0ebd9b8149614d7ebf848a22897d4491": "/home/msharpe/project_scripts/dataset_renders/easy/0ebd9b8149614d7ebf848a22897d4491.png",
-    "d62a66449279499e998557408c4394cc": "/home/msharpe/project_scripts/dataset_renders/easy/d62a66449279499e998557408c4394cc.png",
-    "65e32539c7604a78928cc8b2ec5522ab": "/home/msharpe/project_scripts/dataset_renders/easy/65e32539c7604a78928cc8b2ec5522ab.png",
-    "66ca5bfb6aeb421a8cbccd6db0ae1458": "/home/msharpe/project_scripts/dataset_renders/easy/66ca5bfb6aeb421a8cbccd6db0ae1458.png",
-    "8817826a57a142d2ac82dc42fb46961a": "/home/msharpe/project_scripts/dataset_renders/easy/8817826a57a142d2ac82dc42fb46961a.png",
-    "e5d3a3f2bdf044c78a24c8fd4cf9b5ef": "/home/msharpe/project_scripts/dataset_renders/easy/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.png",
-    "091c4b56658a45d09a85616ed0b8006d": "/home/msharpe/project_scripts/dataset_renders/easy/091c4b56658a45d09a85616ed0b8006d.png",
-    "184da3472d4a4e03a8210b728d7f68e4": "/home/msharpe/project_scripts/dataset_renders/easy/184da3472d4a4e03a8210b728d7f68e4.png"
+    "788b2ac8c80b4ca19dd716ba9b5d2f91": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/788b2ac8c80b4ca19dd716ba9b5d2f91.png",
+    "931fc16054f04a58bac55cb1372b6b11": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/931fc16054f04a58bac55cb1372b6b11.png",
+    "0ebd9b8149614d7ebf848a22897d4491": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/0ebd9b8149614d7ebf848a22897d4491.png",
+    "d62a66449279499e998557408c4394cc": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/d62a66449279499e998557408c4394cc.png",
+    "65e32539c7604a78928cc8b2ec5522ab": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/65e32539c7604a78928cc8b2ec5522ab.png",
+    "66ca5bfb6aeb421a8cbccd6db0ae1458": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/66ca5bfb6aeb421a8cbccd6db0ae1458.png",
+    "8817826a57a142d2ac82dc42fb46961a": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/8817826a57a142d2ac82dc42fb46961a.png",
+    "e5d3a3f2bdf044c78a24c8fd4cf9b5ef": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/e5d3a3f2bdf044c78a24c8fd4cf9b5ef.png",
+    "091c4b56658a45d09a85616ed0b8006d": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/091c4b56658a45d09a85616ed0b8006d.png",
+    "184da3472d4a4e03a8210b728d7f68e4": "/home/momowerefox/Desktop/CSCI_566_2Dto3D/project_scripts/dataset_renders/easy/184da3472d4a4e03a8210b728d7f68e4.png"
   }
 }

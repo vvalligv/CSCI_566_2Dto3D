@@ -18,16 +18,17 @@ from tsr.system import TSR
 from tsr.utils import get_spherical_cameras
 from tsr.utils import remove_background, resize_foreground, ImagePreprocessor
 
-SPLIT_JSON      = os.path.expanduser("~/project_scripts/dataset_split.json")
-RENDER_DIR      = os.path.expanduser("~/project_scripts/dataset_renders")
-CHECKPOINT_DIR  = os.path.expanduser("~/project_scripts/checkpoints_depth")
-LOG_FILE        = os.path.expanduser("~/project_scripts/finetune_depth_log.json")
+SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
+SPLIT_JSON      = os.path.join(SCRIPT_DIR, "dataset_split.json")
+RENDER_DIR      = os.path.join(SCRIPT_DIR, "dataset_renders")
+CHECKPOINT_DIR  = os.path.join(SCRIPT_DIR, "checkpoints_depth")
+LOG_FILE        = os.path.join(SCRIPT_DIR, "finetune_depth_log.json")
 
 LAMBDA_DEPTH    = 0.1
 LR              = 1e-5
 N_EPOCHS        = 10
 N_VIEWS         = 2
-IMG_SIZE        = 64
+IMG_SIZE        = 32
 SAVE_EVERY      = 2
 DEVICE          = "cuda"
 

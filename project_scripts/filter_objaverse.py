@@ -10,7 +10,8 @@ HARD_N      = 10
 EASY_N      = 10
 MAX_FACES   = 100000  # increase if high-end machine, decrease if low-end
 RAY_TIMEOUT = 30      # seconds before skipping ray cast
-OUTPUT_JSON = os.path.expanduser("~/project_scripts/dataset_split.json")
+SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_JSON = os.path.join(SCRIPT_DIR, "dataset_split.json")
 
 PINNED_UIDS = [
     "3564578cde5c42279ead680df1619e3c",
