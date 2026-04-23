@@ -7,8 +7,9 @@ import pyrender
 
 os.environ["PYOPENGL_PLATFORM"] = "egl"
 
-OUTPUT_DIR = os.path.expanduser("~/project_scripts/dataset_renders")
-SPLIT_JSON = os.path.expanduser("~/project_scripts/dataset_split.json")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "dataset_renders")
+SPLIT_JSON = os.path.join(SCRIPT_DIR, "dataset_split.json")
 RESOLUTION = 512
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

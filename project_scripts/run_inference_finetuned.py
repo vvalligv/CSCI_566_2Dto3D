@@ -4,10 +4,11 @@ from PIL import Image
 
 sys.path.insert(0, os.path.expanduser("~/TripoSR"))
 
-OUTPUT_DIR    = os.path.expanduser("~/project_scripts/inference_outputs_depth")
-MANIFEST_JSON = os.path.expanduser("~/project_scripts/render_manifest.json")
-SPLIT_JSON    = os.path.expanduser("~/project_scripts/dataset_split.json")
-CHECKPOINT    = os.path.expanduser("~/project_scripts/checkpoints_depth/final.ckpt")
+SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR    = os.path.join(SCRIPT_DIR, "inference_outputs_depth")
+MANIFEST_JSON = os.path.join(SCRIPT_DIR, "render_manifest.json")
+SPLIT_JSON    = os.path.join(SCRIPT_DIR, "dataset_split.json")
+CHECKPOINT    = os.path.join(SCRIPT_DIR, "checkpoints_depth/final.ckpt")
 
 os.makedirs(os.path.join(OUTPUT_DIR, "hard"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "easy"), exist_ok=True)

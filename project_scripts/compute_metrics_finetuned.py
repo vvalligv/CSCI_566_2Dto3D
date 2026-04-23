@@ -4,11 +4,12 @@ import numpy as np
 import trimesh
 from scipy.spatial import cKDTree
 
-SPLIT_JSON    = os.path.expanduser("~/project_scripts/dataset_split.json")
-INF_MANIFEST  = os.path.expanduser("~/project_scripts/inference_manifest_depth.json")
-BASELINE_JSON = os.path.expanduser("~/project_scripts/metrics_baseline.json")
-OUTPUT_JSON   = os.path.expanduser("~/project_scripts/metrics_depth.json")
-COMPARE_JSON  = os.path.expanduser("~/project_scripts/metrics_comparison.json")
+SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
+SPLIT_JSON    = os.path.join(SCRIPT_DIR, "dataset_split.json")
+INF_MANIFEST  = os.path.join(SCRIPT_DIR, "inference_manifest_depth.json")
+BASELINE_JSON = os.path.join(SCRIPT_DIR, "metrics_baseline.json")
+OUTPUT_JSON   = os.path.join(SCRIPT_DIR, "metrics_depth.json")
+COMPARE_JSON  = os.path.join(SCRIPT_DIR, "etrics_comparison.json")
 N_SAMPLES     = 10000
 
 def sample_surface(mesh_path, n=N_SAMPLES):
