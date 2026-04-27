@@ -113,6 +113,55 @@ and prints a side-by-side comparison table against the baseline.
 
 ---
 
+### 9. Toys4k Benchmark — `benchmark_toys4k.py`
+Runs an end-to-end benchmark on Toys4k-style image/mesh pairs:
+1. Discovers dataset items from a mesh glob and image templates
+2. Runs TripoSR inference and exports predicted meshes
+3. Computes Chamfer Distance + F-score against GT meshes
+4. Reports aggregate metrics overall and by split
+
+This script is configurable so it can benchmark either:
+- pretrained TripoSR (default), or
+- a fine-tuned checkpoint (`--checkpoint path/to/final.ckpt`)
+
+Example:
+```bash
+python benchmark_toys4k.py \
+  --dataset-root /path/to/Toys4k \
+  --mesh-glob "quant/**/*.obj" \
+  --image-template "renders_cond/{id}/000.png" \
+  --output-dir ./toys4k_benchmark
+```
+
+Optional split file format:
+- `{"test": ["id1", "id2"], "val": ["id3"]}`
+- `[ {"id": "id1", "split": "test"}, ... ]`
+
+Outputs:
+- `toys4k_benchmark/runs/<variant>/samples.json`
+- `toys4k_benchmark/runs/<variant>/inference_manifest.json`
+- `toys4k_benchmark/runs/<variant>/pred_meshes/*.obj`
+- `toys4k_benchmark/runs/<variant>/metrics.json`
+- `toys4k_benchmark/metrics_toys4k.json`
+
+Each benchmark run writes to its own folder under `runs/<variant>`, so
+pretrained and fine-tuned meshes are stored separately and never overwrite
+each other.
+
+`metrics_toys4k.json` stores runs under:
+- `runs.pretrained` (default when `--checkpoint` is not set)
+- `runs.<checkpoint_stem>` (default when `--checkpoint` is provided)
+- or a custom key via `--variant <name>`
+
+Each run entry also includes an `artifacts` section with absolute paths to
+that run's `samples.json`, `inference_manifest.json`, `pred_meshes/`, and
+`metrics.json`.
+
+Toys4k benchmark output zip (meshes + metrics):
+- https://drive.google.com/drive/folders/1RBlwA7VHsMgMFQZHexwh60HDsqwmRGDy?usp=sharing
+
+---
+
 ## Baseline Results
 
 | Set | Chamfer Distance ↓ | F-score ↑ |
